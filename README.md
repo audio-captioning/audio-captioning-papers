@@ -39,11 +39,155 @@ please feel free to create an issue.
   
 # Year 2020
 
+## Audio Captioning With the Transformer
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>Anna Shi, "Audio Captioning With the Transformer,"
+   DCASE2020 Challenge, Tech. Rep., Jun. 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/challenge2020/technical_reports/DCASE2020_Shi_8_t6.pdf">DCASE</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{shi:2020:dcase:tech-report,
+    author = {A. Shi},
+    title = {Audio Captioning With the Transformer},
+    institution = {DCASE2020 Challenge},
+    year = {2020},
+    month = {Jun.}}
+
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+## Automated Audio Captioning
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>A. Sampathkumar and D. Kowerko,
+   "Automated Audio Captioning," DCASE2020 Challenge,
+   Tech. Rep., Jun. 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/challenge2020/technical_reports/DCASE2020_Sampathkumar_44_t6.pdf">DCASE</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{sampathkumar:2020:dcase:tech-report,
+    author = {A. Sampathkumar and D. Kowerko},
+    title = {Automated Audio Captioning},
+    institution = {DCASE2020 Challenge},
+    year = {2020},
+    month = {Jun.}}
+
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+## IRIT-UPS DCASE 2020 audio captioning system
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>Thomas Pellegrini, "IRIT-UPS DCASE 2020
+   audio captioning system," DCASE2020 Challenge,
+   Tech. Rep., Jun. 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/challenge2020/technical_reports/DCASE2020_Pellegrini_131_t6.pdf">DCASE</a>
+   </dd>
+
+   <dt>Code</dt>
+   <dd>
+   <a href="https://github.com/topel/listen-attend-tell">GitHub</a>
+   </dd>
+
+   <dt>Data</dt>
+   <dd>
+   <a href="https://zenodo.org/record/3893974#.Xwr_9S2w3OQ">Zenodo</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{pellegrini:2020:dcase:tech-report,
+    author = {Thomas Pellegrini},
+    title = {IRIT-UPS DCASE 2020 audio captioning system},
+    institution = {DCASE2020 Challenge},
+    year = {2020},
+    month = {Jun.}}
+
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+## Task 6 DCASE 2020: Listen Carefully and Tell: An Audio Captioning System Based on Residual Learning and Gammatone Audio Representation
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>J. Naranjo-Alcaza, S. Perez-Castanos,
+   P. Zuccarello, and M. Cobos, "Task 6 DCASE 2020:
+   Listen Carefully and Tell: An Audio Captioning
+   System Based on Residual Learning and Gammatone
+   Audio Representation," DCASE2020 Challenge,
+   Tech. Rep., Jun. 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/challenge2020/technical_reports/DCASE2020_Naranjo_Alcazar_34_t6.pdf">DCASE</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{naranjo-alcazar:2020:dcase:tech-report,
+    author = {J. Naranjo-Alcazar and S. Perez-Castanos and P. Zuccarello and M. Cobos},
+    title = {Task 6 DCASE 2020: Listen Carefully and Tell: An Audio Captioning System Based on Residual Learning and Gammatone Audio Representation},
+    institution = {DCASE2020 Challenge},
+    year = {2020},
+    month = {Jun.}}
+
+   </dd>
+ </dl>
+
+----
+
+</details>
+
 ### Automated Audio Captioning
 
 <details><summary>Information</summary>
  <dl>
-   <dt>Citation</dt>
+   <dt>Reference</dt>
    <dd>N. Kuzmin and A. Dyakonov, "Automated Audio Captioning,"
    DCASE2020 Challenge, Tech. Rep., Jun. 2020
    </dd>
@@ -85,7 +229,7 @@ please feel free to create an issue.
 
 <details><summary>Information</summary>
  <dl>
-   <dt>Citation</dt>
+   <dt>Reference</dt>
    <dd>Y. Koizumi, D. Takeuchi, Y. Ohishi, N. Harada, and K. Kashino,
    "The NTT DCASE2020 Challenge Task 6 System: Automated Audio
    Captioning With Keywords and Sentence Length Estimation,"
@@ -121,7 +265,7 @@ please feel free to create an issue.
 
 <details><summary>Information</summary>
  <dl>
-   <dt>Citation</dt>
+   <dt>Reference</dt>
    <dd>A. O. Eren and M. Sert, "Audio Captioning using Gated Recurrent
    Units," in arXiv:2006.03391 [cs.SD], 2020
    </dd>
@@ -154,7 +298,7 @@ please feel free to create an issue.
 
 <details><summary>Information</summary>
  <dl>
-   <dt>Citation</dt>
+   <dt>Reference</dt>
    <dd>K. Drossos, S. Lipping, and T. Virtanen, "Clotho:
    An audio captioning dataset," in ICASSP 2020-2020 IEEE
    International Conference on Acoustics, Speech and Signal
@@ -194,7 +338,7 @@ please feel free to create an issue.
 
 <details><summary>Information</summary>
  <dl>
-   <dt>Citation</dt>
+   <dt>Reference</dt>
    <dd>S. Lipping, K. Drossos, and T. Virtanen, "Crowdsourcing a
    dataset of audio captions," in Detection and Classification of
    Acoustic Scenes and Events (DCASE) 2019, Oct. 2019
@@ -233,7 +377,7 @@ please feel free to create an issue.
 <details><summary>Information</summary><br>
 
  <dl>
-   <dt>Citation</dt>
+   <dt>Reference</dt>
    <dd>Shota Ikawa and Kunio Kashino, "Neural Audio Captioning Based
    On Conditional Sequence-to-Sequence Model," in Workshop of Detection
    and Classification of Acoustic Scenes and Events (DCASE), Oct.
@@ -271,7 +415,7 @@ please feel free to create an issue.
 <details><summary>Information</summary><br>
 
  <dl>
-   <dt>Citation</dt>
+   <dt>Reference</dt>
    <dd>C. D. Kim, B. Kim, H. Lee, and G. Kim, "AudioCaps:
    Generating captions for audios in the wild,” in Proceedings
    of the 2019 Conference of the North American Chapter of the
@@ -323,7 +467,7 @@ please feel free to create an issue.
 <details><summary>Information</summary><br>
 
  <dl>
-   <dt>Citation</dt>
+   <dt>Reference</dt>
    <dd>M. Wu, H. Dinkel, and K. Yu, "Audio caption: Listen and
    tell," in 2019 IEEE International Conference on Acoustics,
    Speech and Signal Processing (ICASSP), May 2019, pp. 830–834
@@ -367,7 +511,7 @@ please feel free to create an issue.
 <details><summary>Information</summary><br>
 
  <dl>
-   <dt>Citation</dt>
+   <dt>Reference</dt>
    <dd>K. Drossos, S. Adavanne, and T. Virtanen, "Automated audio
    captioning with recurrent neural networks," in 2017 IEEE Workshop
    on Applications of Signal Processing to Audio and Acoustics
