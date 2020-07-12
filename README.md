@@ -33,6 +33,23 @@ Enjoy!
 
 ## Year 2019
 
+### Audio caption: Listen and tell
+
+<dl>
+  <dt>Citation</dt>
+  <dd>M. Wu, H. Dinkel, and K. Yu, "Audio caption: Listen and
+  tell," in 2019 IEEE International Conference on Acoustics,
+  Speech and Signal Processing (ICASSP), May 2019, pp. 830–834
+  </dd>
+
+  <dt>Paper links</dt>
+  <dd>
+  <a href="https://arxiv.org/abs/1706.10006">arXiv</a>
+
+  <a href="https://ieeexplore.ieee.org/document/8170058">ieeexplore</a>
+  </dd>
+</dl>
+
 ## Year 2017
 
 ### Automated Audio Captioning with Recurrent Neural Networks
@@ -40,11 +57,10 @@ Enjoy!
 
 <dl>
   <dt>Citation</dt>
-  <dd>K. Drossos, S. Adavanne, and Tuomas Virtanen, "Automated
-  Audio Captioning with Recurrent Neural Networks," in proceedings
-  of the 11th IEEE Workshop on Applications of Signal Processing to
-  Audio and Acoustics (WASPAA), Oct. 15–18, New Paltz, N.Y. U.S.A.,
-  2017</dd>
+  <dd>K. Drossos, S. Adavanne, and T. Virtanen, "Automated audio
+  captioning with recurrent neural networks," in 2017 IEEE Workshop
+  on Applications of Signal Processing to Audio and Acoustics
+  (WASPAA), Oct. 2017, pp. 374–378</dd>
 
   <dt>Paper links</dt>
   <dd>
