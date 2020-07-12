@@ -39,6 +39,93 @@ please feel free to create an issue.
   
 # Year 2020
 
+### Audio Captioning Based on Transformer and Pre-Training for 2020 DCASE Audio Captioning Challenge
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>Y. Wu, K. Chen, Z. Wang, X. Zhang, F. Nian, S. Li, and X. Shao,
+   "Audio Captioning Based on Transformer and Pre-Training for
+   2020 DCASE Audio Captioning Challenge,"
+   DCASE2020 Challenge, Tech. Rep., Jun. 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/challenge2020/technical_reports/DCASE2020_Wu_136_t6.pdf">DCASE</a>
+   </dd>
+
+   <dt>Code</dt>
+   <dd>
+   <a href="https://github.com/lukewys/dcase_2020_T6">GitHub</a>
+   </dd>
+
+   <dt>Data</dt>
+   <dd>
+   <a href="https://github.com/lukewys/dcase_2020_T6">GitHub</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{wu-y:2020:dcase:tech-report,
+    author = {Y. Wu, K. Chen, Z. Wang, X. Zhang, F. Nian, S. Li, and X. Shao},
+    title = {Audio Captioning Based on Transformer and Pre-Training for 2020 DCASE Audio Captioning Challenge},
+    institution = {DCASE2020 Challenge},
+    year = {2020},
+    month = {Jun.}}
+
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+### Automatic Audio Captioning System Based on Convolutional Neural Network
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>Q. Wu, S. Tao, and X. Yang,
+   "Automatic Audio Captioning System Based on Convolutional Neural Network,"
+   DCASE2020 Challenge, Tech. Rep., Jun. 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/challenge2020/technical_reports/DCASE2020_Wu_32_t6.pdf">DCASE</a>
+   </dd>
+
+   <dt>Code</dt>
+   <dd>
+   <a href="https://github.com/SolarQY/dcase-2020-Wu_UESTC_task6_1-master">GitHub</a>
+   </dd>
+
+   <dt>Data</dt>
+   <dd>
+   <a href="https://zenodo.org/record/3876464">Zenodo</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{wu-q:2020:dcase:tech-report,
+    author = {Q. Wu and S. Tao and X. Yang},
+    title = {Automatic Audio Captioning System Based on Convolutional Neural Network},
+    institution = {DCASE2020 Challenge},
+    year = {2020},
+    month = {Jun.}}
+
+   </dd>
+ </dl>
+
+----
+
+</details>
+
 ### Automated Audio Captioning With Temporal Attention
 
 <details><summary>Information</summary>
@@ -58,7 +145,7 @@ please feel free to create an issue.
 
    <dd>
 
-    @techreport{shi:2020:dcase:tech-report,
+    @techreport{wang:2020:dcase:tech-report,
     author = {H. Wang and B. Yang and  Y. Zou and D. Chong},
     title = {Automated Audio Captioning With Temporal Attention},
     institution = {DCASE2020 Challenge},
