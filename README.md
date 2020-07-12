@@ -39,6 +39,39 @@ please feel free to create an issue.
   
 # Year 2020
 
+### Automated Audio Captioning With Temporal Attention
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>H. Wang, B. Yang, Y. Zou, and D. Chong,
+   "Automated Audio Captioning With Temporal Attention,"
+   DCASE2020 Challenge, Tech. Rep., Jun. 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/challenge2020/technical_reports/DCASE2020_Wang_5_t6.pdf">DCASE</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{shi:2020:dcase:tech-report,
+    author = {H. Wang and B. Yang and  Y. Zou and D. Chong},
+    title = {Automated Audio Captioning With Temporal Attention},
+    institution = {DCASE2020 Challenge},
+    year = {2020},
+    month = {Jun.}}
+
+   </dd>
+ </dl>
+
+----
+
+</details>
+
 ### Audio Captioning With the Transformer
 
 <details><summary>Information</summary>
