@@ -357,7 +357,7 @@ please feel free to create an issue.
 
 ----
 
-## Year 2017
+# Year 2017
 
 ### Automated Audio Captioning with Recurrent Neural Networks
 
@@ -378,9 +378,10 @@ please feel free to create an issue.
    <a href="https://ieeexplore.ieee.org/document/8170058">ieeexplore</a>
    </dd>
  
-   <dt>
-   <details><summary>BibTex entry</summary><br>
+   <dt>BibTex entry</dt>
  
+   <dd>
+
      @inproceedings{drossos:2017:waspaa,
      author={K. {Drossos} and S. {Adavanne} and T. {Virtanen}},
      booktitle={2017 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)},
@@ -388,8 +389,7 @@ please feel free to create an issue.
      year={2017},
      pages={374-378}}
  
-   </details>
-   </dt>
+   </dd>
  </dl>
 
 ----
