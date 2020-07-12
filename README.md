@@ -27,7 +27,8 @@ Enjoy!
 1. [Year 2019](#year-2019)
 1. [Year 2017](#year-2017)
   
-  - [Automated audio captioning with recurrent neural networks](#automated-audio-captioning-with-recurrent-neural-networks)
+  * [Automated audio captioning with recurrent neural networks](#automated-audio-captioning-with-recurrent-neural-networks)
+  
 
 ----
 
