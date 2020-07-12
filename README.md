@@ -66,12 +66,13 @@ please feel free to create an issue.
    <dt>BibTex entry</dt>
 
    <dd>
-	  @techreport{kuzmin:2020:dcase:tech-report,
-      author = {N. Kuzmin and A. Dyakonov},
-      title = {Automated Audio Captioning},
-      institution = {DCASE2020 Challenge},
-      year = {2020},
-      month = {Jun.}}
+
+	    @techreport{kuzmin:2020:dcase:tech-report,
+        author = {N. Kuzmin and A. Dyakonov},
+        title = {Automated Audio Captioning},
+        institution = {DCASE2020 Challenge},
+        year = {2020},
+        month = {Jun.}}
    </dd>
  </dl>
 
