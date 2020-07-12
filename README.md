@@ -37,25 +37,43 @@ P.S. This repository is maintained by
 
 ## Year 2020
 
+### Clotho
+
 ## Year 2019
+
+### Crowdsourcing a Dataset of Audio Captions
+
+<dl>
+  <dt>Citation</dt>
+  <dd>Shota Ikawa and Kunio Kashino, "Neural Audio Captioning Based
+  On Conditional Sequence-to-Sequence Model," in Workshop of Detection
+  and Classification of Acoustic Scenes and Events (DCASE), Oct.
+  2019.
+  </dd>
+
+  <dt>Paper links</dt>
+  <dd>
+  <a href="http://dcase.community/documents/workshop2019/proceedings/DCASE2019Workshop_Ikawa_82.pdf">DCASE</a>
+  </dd>
+</dl>
+
+----
 
 ### Neural Audio Captioning Based On Conditional Sequence-to-Sequence Model
 
 <dl>
   <dt>Citation</dt>
-  <dd>C. D. Kim, B. Kim, H. Lee, and G. Kim, "AudioCaps:
-  Generating captions for audios in the wild,” in Proceedings
-  of the 2019 Conference of the North American Chapter of the
-  Association for Computational Linguistics: Human Language
-  Technologies, Volume 1 (Long and Short Papers), Minneapolis,
-  Minnesota, Jun. 2019, pp. 119–132, Association for Computational
-  Linguistics 
+  <dd>Shota Ikawa and Kunio Kashino, "Neural Audio Captioning Based
+  On Conditional Sequence-to-Sequence Model," in Workshop of Detection
+  and Classification of Acoustic Scenes and Events (DCASE), Oct.
+  2019.
   </dd>
 
   <dt>Paper links</dt>
   <dd>
-  <a href="https://arxiv.org/abs/1706.10006">acwlweb</a>
+  <a href="http://dcase.community/documents/workshop2019/proceedings/DCASE2019Workshop_Ikawa_82.pdf">DCASE</a>
   </dd>
+</dl>
 
 ----
 
@@ -125,5 +143,11 @@ P.S. This repository is maintained by
 
   <a href="https://ieeexplore.ieee.org/document/8170058">ieeexplore</a>
   </dd>
+
+  <dt>
+  <details><summary>BibTex entry</summary><br>
+  This is how you dropdown.
+  </details>
+  </dt>
 </dl>
 
