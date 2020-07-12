@@ -154,6 +154,8 @@ P.S. This repository is maintained by
 
 ### Audio caption: Listen and tell
 
+<details><summary>Information</summary><br>
+
 <dl>
   <dt>Citation</dt>
   <dd>M. Wu, H. Dinkel, and K. Yu, "Audio caption: Listen and
@@ -184,6 +186,7 @@ P.S. This repository is maintained by
   </details>
   </dt>
 </dl>
+</details>
 
 ----
 
