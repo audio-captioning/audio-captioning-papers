@@ -25,6 +25,10 @@ Enjoy!
 P.S. This repository is maintained by
 [K. Drossos](https://github.com/dr-costas). 
 
+P.S.2 The order is roughly chronological. If there is a
+suggestion for changing the ordering of specific papers,
+please feel free to create an issue.
+
 ----
 
 ## Table of contents
@@ -35,8 +39,83 @@ P.S. This repository is maintained by
   
 ## Year 2020
 
-### The NTT DCASE2020 Challenge Task 6 System: Automated Audio
-Captioning With Keywords and Sentence Length Estimation
+### Automated Audio Captioning
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Citation</dt>
+   <dd>N. Kuzmin and A. Dyakonov, "Automated Audio Captioning,"
+   DCASE2020 Challenge, Tech. Rep., Jun. 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/challenge2020/technical_reports/DCASE2020_Kuzmin_137_t6.pdf">DCASE</a>
+   </dd>
+
+   <dt>Code</dt>
+   <dd>
+   <a href="https://github.com/paniquex/Automated_Audio_Captioning_DCASE2020">GitHub</a>
+   </dd>
+
+   <dt>Data</dt>
+   <dd>
+   <a href="https://zenodo.org/record/3895543#.Xwr6Ny2w3OQ">Zenodo</a>
+   </dd>
+ 
+   <dt>
+   <details><summary>BibTex entry</summary><br>
+ 
+	  @techreport{kuzmin:2020:dcase:tech-report,
+      author = {N. Kuzmin and A. Dyakonov},
+      title = {Automated Audio Captioning},
+      institution = {DCASE2020 Challenge},
+      year = {2020},
+      month = {Jun.}}
+ 
+   </details>
+   </dt>
+ </dl>
+
+----
+
+</details>
+
+### The NTT DCASE2020 Challenge Task 6 System: Automated Audio Captioning With Keywords and Sentence Length Estimation
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Citation</dt>
+   <dd>Y. Koizumi, D. Takeuchi, Y. Ohishi, N. Harada, and K. Kashino,
+   "The NTT DCASE2020 Challenge Task 6 System: Automated Audio
+   Captioning With Keywords and Sentence Length Estimation,"
+   DCASE2020 Challenge, Tech. Rep., Jun. 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://arxiv.org/abs/2007.00225">arXiv</a>
+
+   <a href="http://dcase.community/documents/challenge2020/technical_reports/DCASE2020_Koizumi_63_t6.pdf">DCASE</a>
+   </dd>
+ 
+   <dt>
+   <details><summary>BibTex entry</summary><br>
+ 
+	  @techreport{koizumi:2020:dcase:tech-report,
+      author = {Y. Koizumi and D. Takeuchi and Y. Ohishi and N. Harada and K. Kashino},
+      title = {The {NTT} {DCASE2020} Challenge Task 6 System: Automated Audio Captioning With Keywords and Sentence Length Estimation},
+      institution = {DCASE2020 Challenge},
+      year = {2020},
+      month = {Jun.}}
+ 
+   </details>
+   </dt>
+ </dl>
+
+----
+
+</details>
 
 ### Audio Captioning using Gated Recurrent Units
 
@@ -70,9 +149,6 @@ Captioning With Keywords and Sentence Length Estimation
 ----
 
 </details>
-
-
-
 
 ### Clotho: An Audio Captioning Dataset
 
@@ -120,7 +196,7 @@ Captioning With Keywords and Sentence Length Estimation
  <dl>
    <dt>Citation</dt>
    <dd>S. Lipping, K. Drossos, and T. Virtanen, "Crowdsourcing a
-   dataset of audio captions," inDetection and Classification of
+   dataset of audio captions," in Detection and Classification of
    Acoustic Scenes and Events (DCASE) 2019, Oct. 2019
    </dd>
  
