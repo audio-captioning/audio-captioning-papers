@@ -48,9 +48,9 @@ Enjoy!
 
   <dt>Paper links</dt>
   <dd>
-  [arXiv](https://arxiv.org/abs/1706.10006)
+  <a href="https://arxiv.org/abs/1706.10006">arXiv</a>
 
-  [ieeexplore](https://ieeexplore.ieee.org/document/8170058)
+  <a href="https://ieeexplore.ieee.org/document/8170058">ieeexplore</a>
   </dd>
 </dl>
 
