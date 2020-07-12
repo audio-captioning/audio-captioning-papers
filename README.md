@@ -35,7 +35,18 @@ Enjoy!
 
 ## Year 2017
 
- 1. K. Drossos, S. Adavanne, and Tuomas Virtanen, "Automated Audio
+### Automated Audio Captioning with Recurrent Neural Networks
+
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+* Citation: K. Drossos, S. Adavanne, and Tuomas Virtanen, "Automated Audio
 Captioning with Recurrent Neural Networks," in proceedings of the
 11th IEEE Workshop on Applications of Signal Processing to Audio
 and Acoustics (WASPAA), Oct. 15–18, New Paltz, N.Y. U.S.A., 2017
