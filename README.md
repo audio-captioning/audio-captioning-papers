@@ -26,6 +26,8 @@ Enjoy!
 1. [Year 2020](#year-2020)
 1. [Year 2019](#year-2019)
 1. [Year 2017](#year-2017)
+  
+  - [Automated audio captioning with recurrent neural networks](#automated-audio-captioning-with-recurrent-neural-networks)
 
 ----
 
@@ -33,7 +35,7 @@ Enjoy!
 
 ## Year 2019
 
-#### Audio caption: Listen and tell
+### Audio caption: Listen and tell
 
 <dl>
   <dt>Citation</dt>
