@@ -17,7 +17,13 @@ and for each paper there are:
 
 The ordering is descending, having the newer papers first. 
 
+If you know of an audio captioning paper that is not included
+in this list, please make an issue and it will be included!
+
 Enjoy! 
+
+P.S. This repository is maintained by
+[K. Drossos](https://github.com/dr-costas). 
 
 ----
 
@@ -27,14 +33,62 @@ Enjoy!
 1. [Year 2019](#year-2019)
 1. [Year 2017](#year-2017)
   
-  * [Automated audio captioning with recurrent neural networks](#automated-audio-captioning-with-recurrent-neural-networks)
-  
-
 ----
 
 ## Year 2020
 
 ## Year 2019
+
+### Neural Audio Captioning Based On Conditional Sequence-to-Sequence Model
+
+<dl>
+  <dt>Citation</dt>
+  <dd>C. D. Kim, B. Kim, H. Lee, and G. Kim, "AudioCaps:
+  Generating captions for audios in the wild,” in Proceedings
+  of the 2019 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language
+  Technologies, Volume 1 (Long and Short Papers), Minneapolis,
+  Minnesota, Jun. 2019, pp. 119–132, Association for Computational
+  Linguistics 
+  </dd>
+
+  <dt>Paper links</dt>
+  <dd>
+  <a href="https://arxiv.org/abs/1706.10006">acwlweb</a>
+  </dd>
+
+----
+
+### AudioCaps: Generating captions for audios in the wild
+
+<dl>
+  <dt>Citation</dt>
+  <dd>C. D. Kim, B. Kim, H. Lee, and G. Kim, "AudioCaps:
+  Generating captions for audios in the wild,” in Proceedings
+  of the 2019 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language
+  Technologies, Volume 1 (Long and Short Papers), Minneapolis,
+  Minnesota, Jun. 2019, pp. 119–132, Association for Computational
+  Linguistics 
+  </dd>
+
+  <dt>Paper links</dt>
+  <dd>
+  <a href="https://arxiv.org/abs/1706.10006">acwlweb</a>
+  </dd>
+
+  <dt>Code</dt>
+  <dd>
+  <a href="https://github.com/cdjkim/audiocaps">GitHub</a>
+  </dd>
+
+  <dt>Data</dt>
+  <dd>
+  <a href="https://github.com/cdjkim/audiocaps/blob/master/dataset/README.md">GitHub</a>
+  </dd>
+</dl>
+
+----
 
 ### Audio caption: Listen and tell
 
