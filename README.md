@@ -146,7 +146,13 @@ P.S. This repository is maintained by
 
   <dt>
   <details><summary>BibTex entry</summary><br>
-  This is how you dropdown.
+   > @inproceedings{drossos:2017:waspaa,
+   > author={K. {Drossos} and S. {Adavanne} and T. {Virtanen}},
+   > booktitle={2017 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)},
+   > title={Automated audio captioning with recurrent neural networks},
+   > year={2017},
+   > pages={374-378},}
+
   </details>
   </dt>
 </dl>
