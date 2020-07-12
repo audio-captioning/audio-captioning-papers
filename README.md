@@ -195,11 +195,11 @@ P.S. This repository is maintained by
   </dt>
 </dl>
 
+----
+
+----
+
 ## Year 2017
-
-----
-
-----
 
 ### Automated Audio Captioning with Recurrent Neural Networks
 
