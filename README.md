@@ -152,40 +152,39 @@ P.S. This repository is maintained by
   </dt>
 </dl>
 
-### * Audio caption: Listen and tell
+### Audio caption: Listen and tell
 
 <details><summary>Information</summary><br>
 
-<dl>
-  <dt>Citation</dt>
-  <dd>M. Wu, H. Dinkel, and K. Yu, "Audio caption: Listen and
-  tell," in 2019 IEEE International Conference on Acoustics,
-  Speech and Signal Processing (ICASSP), May 2019, pp. 830–834
-  </dd>
+ <dl>
+   <dt>Citation</dt>
+   <dd>M. Wu, H. Dinkel, and K. Yu, "Audio caption: Listen and
+   tell," in 2019 IEEE International Conference on Acoustics,
+   Speech and Signal Processing (ICASSP), May 2019, pp. 830–834
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://arxiv.org/abs/1706.10006">arXiv</a>
+ 
+   <a href="https://ieeexplore.ieee.org/document/8170058">ieeexplore</a>
+   </dd>
+ 
+   <dt>
+   <details><summary>BibTex entry</summary><br>
+     @inproceedings{wu:2019:icassp,
+     author={M. {Wu} and H. {Dinkel} and K. {Yu}},
+     booktitle={2019 IEEE International Conference on Acoustics, Speech and Signal Processing ({ICASSP})},
+     title={Audio Caption: Listen and Tell},
+     year={2019},
+     pages={830-834},
+     doi={10.1109/ICASSP.2019.8682377},
+     ISSN={2379-190X},
+     month={May}}
+   </details>
+   </dt>
+ </dl>
 
-  <dt>Paper links</dt>
-  <dd>
-  <a href="https://arxiv.org/abs/1706.10006">arXiv</a>
-
-  <a href="https://ieeexplore.ieee.org/document/8170058">ieeexplore</a>
-  </dd>
-
-  <dt>
-  <details><summary>BibTex entry</summary><br>
-
-	@inproceedings{wu:2019:icassp,
-    author={M. {Wu} and H. {Dinkel} and K. {Yu}},
-    booktitle={2019 IEEE International Conference on Acoustics, Speech and Signal Processing ({ICASSP})},
-    title={Audio Caption: Listen and Tell},
-    year={2019},
-    pages={830-834},
-    doi={10.1109/ICASSP.2019.8682377},
-    ISSN={2379-190X},
-    month={May}}
-
-  </details>
-  </dt>
-</dl>
 </details>
 
 ----
