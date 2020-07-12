@@ -33,13 +33,9 @@ P.S. This repository is maintained by
 1. [Year 2019](#year-2019)
 1. [Year 2017](#year-2017)
   
-----
-
 ## Year 2020
 
 ### Clotho
-
----
 
 ---
 
@@ -78,8 +74,6 @@ P.S. This repository is maintained by
   </dt>
 </dl>
 
-----
-
 ### Neural Audio Captioning Based On Conditional Sequence-to-Sequence Model
 
 <dl>
@@ -111,8 +105,6 @@ P.S. This repository is maintained by
   </details>
   </dt>
 </dl>
-
-----
 
 ### AudioCaps: Generating captions for audios in the wild
 
@@ -160,8 +152,6 @@ P.S. This repository is maintained by
   </dt>
 </dl>
 
-----
-
 ### Audio caption: Listen and tell
 
 <dl>
@@ -194,8 +184,6 @@ P.S. This repository is maintained by
   </details>
   </dt>
 </dl>
-
-----
 
 ----
 
