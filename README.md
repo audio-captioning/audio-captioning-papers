@@ -39,6 +39,10 @@ P.S. This repository is maintained by
 
 ### Clotho
 
+---
+
+---
+
 ## Year 2019
 
 ### Crowdsourcing a Dataset of Audio Captions
@@ -192,6 +196,10 @@ P.S. This repository is maintained by
 </dl>
 
 ## Year 2017
+
+----
+
+----
 
 ### Automated Audio Captioning with Recurrent Neural Networks
 
