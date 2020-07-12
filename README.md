@@ -47,7 +47,8 @@ Enjoy!
   2017</dd>
 
   <dt>Paper links</dt>
-  <dd> [arXiv](https://arxiv.org/abs/1706.10006)
+  <dd>
+  [arXiv](https://arxiv.org/abs/1706.10006)
 
   [ieeexplore](https://ieeexplore.ieee.org/document/8170058)
   </dd>
