@@ -39,6 +39,40 @@ please feel free to create an issue.
   
 # Year 2020
 
+### The SJTU Submission for DCASE2020 Task 6: A CRNN-GRU Based Reinforcement Learning Approach to Audiocaption
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>X. Xu, H. Dinkel, M. Wu, and K. Yu,
+   "The SJTU Submission for DCASE2020 Task 6: A CRNN-GRU
+   Based Reinforcement Learning Approach to Audiocaption,"
+   DCASE2020 Challenge, Tech. Rep., Jun. 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/challenge2020/technical_reports/DCASE2020_Xu_43_t6.pdf">DCASE</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{wu-y:2020:dcase:tech-report,
+    author = {X. Xu and H. Dinkel and M. Wu, and K. Yu},
+    title = {The SJTU Submission for DCASE2020 Task 6: A CRNN-GRU Based Reinforcement Learning Approach to Audiocaption},
+    institution = {DCASE2020 Challenge},
+    year = {2020},
+    month = {Jun.}}
+
+   </dd>
+ </dl>
+
+----
+
+</details>
+
 ### Audio Captioning Based on Transformer and Pre-Training for 2020 DCASE Audio Captioning Challenge
 
 <details><summary>Information</summary>
