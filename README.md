@@ -152,7 +152,7 @@ P.S. This repository is maintained by
   </dt>
 </dl>
 
-### Audio caption: Listen and tell
+### * Audio caption: Listen and tell
 
 <details><summary>Information</summary><br>
 
