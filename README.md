@@ -146,6 +146,7 @@ P.S. This repository is maintained by
 
   <dt>
   <details><summary>BibTex entry</summary><br>
+
    > @inproceedings{drossos:2017:waspaa,
    > author={K. {Drossos} and S. {Adavanne} and T. {Virtanen}},
    > booktitle={2017 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)},
