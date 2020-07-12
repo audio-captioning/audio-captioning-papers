@@ -35,10 +35,10 @@ Enjoy!
 
 ## Year 2017
 
-1. K. Drossos, S. Adavanne, and Tuomas Virtanen, "Automated Audio
+ 1. K. Drossos, S. Adavanne, and Tuomas Virtanen, "Automated Audio
 Captioning with Recurrent Neural Networks," in proceedings of the
 11th IEEE Workshop on Applications of Signal Processing to Audio
 and Acoustics (WASPAA), Oct. 15–18, New Paltz, N.Y. U.S.A., 2017
-  * Paper links:
-   * [arXiv](https://arxiv.org/abs/1706.10006)
-   * [ieeexplore](https://ieeexplore.ieee.org/document/8170058)
+   * Paper links:
+     * [arXiv](https://arxiv.org/abs/1706.10006)
+     * [ieeexplore](https://ieeexplore.ieee.org/document/8170058)
