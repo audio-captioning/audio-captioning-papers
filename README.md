@@ -63,18 +63,16 @@ please feel free to create an issue.
    <a href="https://zenodo.org/record/3895543#.Xwr6Ny2w3OQ">Zenodo</a>
    </dd>
  
-   <dt>
-   <details><summary>BibTex entry</summary><br>
- 
+   <dt>BibTex entry</dt>
+
+   <dd>
 	  @techreport{kuzmin:2020:dcase:tech-report,
       author = {N. Kuzmin and A. Dyakonov},
       title = {Automated Audio Captioning},
       institution = {DCASE2020 Challenge},
       year = {2020},
       month = {Jun.}}
- 
-   </details>
-   </dt>
+   </dd>
  </dl>
 
 ----
