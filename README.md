@@ -75,6 +75,8 @@ P.S. This repository is maintained by
    </dt>
  </dl>
 
+----
+
 </details>
 
 ### Neural Audio Captioning Based On Conditional Sequence-to-Sequence Model
