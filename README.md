@@ -39,7 +39,7 @@ please feel free to create an issue.
   
 # Year 2020
 
-## Audio Captioning With the Transformer
+### Audio Captioning With the Transformer
 
 <details><summary>Information</summary>
  <dl>
@@ -59,7 +59,7 @@ please feel free to create an issue.
 
     @techreport{shi:2020:dcase:tech-report,
     author = {A. Shi},
-    title = {Audio Captioning With the Transformer},
+    title = {Audio Captioning With the TransformerAutomated Audio Captioning},
     institution = {DCASE2020 Challenge},
     year = {2020},
     month = {Jun.}}
@@ -71,7 +71,7 @@ please feel free to create an issue.
 
 </details>
 
-## Automated Audio Captioning
+### Automated Audio Captioning
 
 <details><summary>Information</summary>
  <dl>
@@ -104,7 +104,7 @@ please feel free to create an issue.
 
 </details>
 
-## IRIT-UPS DCASE 2020 audio captioning system
+### IRIT-UPS DCASE 2020 audio captioning system
 
 <details><summary>Information</summary>
  <dl>
@@ -147,7 +147,7 @@ please feel free to create an issue.
 
 </details>
 
-## Task 6 DCASE 2020: Listen Carefully and Tell: An Audio Captioning System Based on Residual Learning and Gammatone Audio Representation
+### Task 6 DCASE 2020: Listen Carefully and Tell: An Audio Captioning System Based on Residual Learning and Gammatone Audio Representation
 
 <details><summary>Information</summary>
  <dl>
