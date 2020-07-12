@@ -35,7 +35,80 @@ P.S. This repository is maintained by
   
 ## Year 2020
 
-### Clotho
+### The NTT DCASE2020 Challenge Task 6 System: Automated Audio
+Captioning With Keywords and Sentence Length Estimation
+
+### Audio Captioning using Gated Recurrent Units
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Citation</dt>
+   <dd>A. O. Eren and M. Sert, "Audio Captioning using Gated Recurrent
+   Units," in arXiv:2006.03391 [cs.SD], 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://arxiv.org/abs/2006.03391">arXiv</a>
+   </dd>
+ 
+   <dt>
+   <details><summary>BibTex entry</summary><br>
+ 
+     @misc{eren:2020:arxiv,
+     title={Audio Captioning using Gated Recurrent Units},
+     author={Ay\c{s}eg\"{u}}l \"{O}zkaya Eren and Mustafa Sert},
+     year={2020},
+     eprint={2006.03391},
+     archivePrefix={arXiv},
+     primaryClass={cs.SD}}
+ 
+   </details>
+   </dt>
+ </dl>
+
+----
+
+</details>
+
+
+
+
+### Clotho: An Audio Captioning Dataset
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Citation</dt>
+   <dd>K. Drossos, S. Lipping, and T. Virtanen, "Clotho:
+   An audio captioning dataset," in ICASSP 2020-2020 IEEE
+   International Conference on Acoustics, Speech and Signal
+   Processing (ICASSP). IEEE, 2020, pp. 736–740
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://arxiv.org/abs/1910.09387">arXiv</a>
+ 
+   <a href="https://ieeexplore.ieee.org/document/9052990">ieeexplore</a>
+   </dd>
+ 
+   <dt>
+   <details><summary>BibTex entry</summary><br>
+ 
+	 @inproceedings{drossos2020clotho,
+	 title={Clotho: An Audio Captioning Dataset},
+	 author={Drossos, K. and Lipping, S. and Virtanen, T.},
+	 booktitle={ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+	 pages={736--740},
+	 year={2020}}
+ 
+   </details>
+   </dt>
+ </dl>
+
+----
+
+</details>
 
 ---
 
@@ -113,6 +186,8 @@ P.S. This repository is maintained by
    </dt>
  </dl>
 
+----
+
 </details>
  
 ### AudioCaps: Generating captions for audios in the wild
@@ -163,6 +238,8 @@ P.S. This repository is maintained by
    </dt>
  </dl>
 
+----
+
 </details>
 
 ### Audio caption: Listen and tell
@@ -198,6 +275,8 @@ P.S. This repository is maintained by
    </details>
    </dt>
  </dl>
+
+----
 
 </details>
 
@@ -237,6 +316,8 @@ P.S. This repository is maintained by
    </details>
    </dt>
  </dl>
+
+----
 
 </details>
 
