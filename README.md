@@ -172,6 +172,7 @@ P.S. This repository is maintained by
  
    <dt>
    <details><summary>BibTex entry</summary><br>
+
      @inproceedings{wu:2019:icassp,
      author={M. {Wu} and H. {Dinkel} and K. {Yu}},
      booktitle={2019 IEEE International Conference on Acoustics, Speech and Signal Processing ({ICASSP})},
