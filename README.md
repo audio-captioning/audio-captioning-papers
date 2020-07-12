@@ -10,7 +10,7 @@ of papers that are focusing on audio captioning.
 The papers are groupped according to the year that are published,
 and for each paper there are: 
 
-* The full citation
+* The full reference
 * Links to the PDF, e.g. arXiv and/or publisher web site (if applicable)
 * A link to the GitHub repository (if applicable)
 * A link to pre-trained model(s) (if applicable)
