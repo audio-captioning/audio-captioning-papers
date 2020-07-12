@@ -43,8 +43,7 @@ P.S. This repository is maintained by
 
 ### Crowdsourcing a Dataset of Audio Captions
 
-<details><summary>Information</summary><br>
-
+<details><summary>Information</summary>
  <dl>
    <dt>Citation</dt>
    <dd>S. Lipping, K. Drossos, and T. Virtanen, "Crowdsourcing a
