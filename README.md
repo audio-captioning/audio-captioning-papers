@@ -18,7 +18,8 @@ and for each paper there are:
 The ordering is descending, having the newer papers first. 
 
 If you know of an audio captioning paper that is not included
-in this list, please make an issue and it will be included!
+in this list, please make an issue or a pull requrest and it
+will be included!
 
 Enjoy! 
 
