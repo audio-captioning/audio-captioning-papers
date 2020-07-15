@@ -61,7 +61,7 @@ please feel free to create an issue.
 
    <dd>
 
-    @techreport{wu-y:2020:dcase:tech-report,
+    @techreport{xu:2020:dcase:tech-report,
     author = {X. Xu and H. Dinkel and M. Wu, and K. Yu},
     title = {The SJTU Submission for DCASE2020 Task 6: A CRNN-GRU Based Reinforcement Learning Approach to Audiocaption},
     institution = {DCASE2020 Challenge},
