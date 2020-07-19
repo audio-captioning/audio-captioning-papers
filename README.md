@@ -41,7 +41,7 @@ please feel free to create an issue.
   
 # Year 2020
 
-### A Transformer-based Audio Captioning Model with Keyword Estimation
+#### A Transformer-based Audio Captioning Model with Keyword Estimation
 
 <details><summary>Information</summary>
  <dl>
@@ -75,7 +75,7 @@ please feel free to create an issue.
 
 </details>
 
-### Multi-task Regularization Based on Infrequent Classes for Audio Captioning
+#### Multi-task Regularization Based on Infrequent Classes for Audio Captioning
 
 <details><summary>Information</summary>
  <dl>
@@ -109,7 +109,7 @@ please feel free to create an issue.
 
 </details>
 
-### Temporal Sub-sampling of Audio Feature Sequences for Automated Audio Captioning
+#### Temporal Sub-sampling of Audio Feature Sequences for Automated Audio Captioning
 
 <details><summary>Information</summary>
  <dl>
