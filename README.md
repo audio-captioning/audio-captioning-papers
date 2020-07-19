@@ -143,7 +143,7 @@ please feel free to create an issue.
 
 </details>
 
-### The SJTU Submission for DCASE2020 Task 6: A CRNN-GRU Based Reinforcement Learning Approach to Audiocaption
+#### The SJTU Submission for DCASE2020 Task 6: A CRNN-GRU Based Reinforcement Learning Approach to Audiocaption
 
 <details><summary>Information</summary>
  <dl>
