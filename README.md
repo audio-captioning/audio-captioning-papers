@@ -41,6 +41,108 @@ please feel free to create an issue.
   
 # Year 2020
 
+### A Transformer-based Audio Captioning Model with Keyword Estimation
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>Y. Koizumi, R. Masumura, K. Nishida, M. Yasuda, and S. Saito,
+   "A Transformer-based Audio Captioning Model with Keyword Estimation,"
+   in arXiv:2007.00222 [eess.AS], 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://arxiv.org/abs/2007.00222">arXiv</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@misc{koizumi:2020:arxiv-a,
+    title={A Transformer-based Audio Captioning Model with Keyword Estimation},
+    author={Y. Koizumi and R. Masumura and K. Nishida and M. Yasuda and S. Saito},
+    year={2020},
+    eprint={2007.00222},
+    archivePrefix={arXiv},
+    primaryClass={eess.AS}}
+
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+### Multi-task Regularization Based on Infrequent Classes for Audio Captioning
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>E. Çakır, K. Drossos, and T. Virtanen, 
+   "Multi-task Regularization Based on Infrequent Classes for Audio Captioning,"
+   in arXiv:2007.04660 [cs.SD], 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://arxiv.org/abs/2007.04660">arXiv</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@misc{cakir:2020:arxiv-a,
+    title={Multi-task Regularization Based on Infrequent Classes for Audio Captioning},
+    author={E. Çakır and K. Drossos and T. Virtanen},
+    year={2020},
+    eprint={2007.04660},
+    archivePrefix={arXiv},
+    primaryClass={cs.SD}}
+
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+### Temporal Sub-sampling of Audio Feature Sequences for Automated Audio Captioning
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>K. Nguyen, K. Drossos, and T. Virtanen,
+   "Temporal Sub-sampling of Audio Feature Sequences for Automated Audio Captioning,"
+   in arXiv:2007.02676 [eess.AS], 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://arxiv.org/abs/2007.02676">arXiv</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@misc{nguyen:2020:arxiv-a,
+    title={Temporal Sub-sampling of Audio Feature Sequences for Automated Audio Captioning},
+    author={K. Nguyen and K. Drossos and T. Virtanen},
+    year={2020},
+    eprint={2007.02676},
+    archivePrefix={arXiv},
+    primaryClass={eess.AS}}
+
+   </dd>
+ </dl>
+
+----
+
+</details>
+
 ### The SJTU Submission for DCASE2020 Task 6: A CRNN-GRU Based Reinforcement Learning Approach to Audiocaption
 
 <details><summary>Information</summary>
