@@ -177,7 +177,7 @@ please feel free to create an issue.
 
 </details>
 
-### Audio Captioning Based on Transformer and Pre-Training for 2020 DCASE Audio Captioning Challenge
+#### Audio Captioning Based on Transformer and Pre-Training for 2020 DCASE Audio Captioning Challenge
 
 <details><summary>Information</summary>
  <dl>
@@ -221,7 +221,7 @@ please feel free to create an issue.
 
 </details>
 
-### Automatic Audio Captioning System Based on Convolutional Neural Network
+#### Automatic Audio Captioning System Based on Convolutional Neural Network
 
 <details><summary>Information</summary>
  <dl>
@@ -264,7 +264,7 @@ please feel free to create an issue.
 
 </details>
 
-### Automated Audio Captioning With Temporal Attention
+#### Automated Audio Captioning With Temporal Attention
 
 <details><summary>Information</summary>
  <dl>
@@ -297,7 +297,7 @@ please feel free to create an issue.
 
 </details>
 
-### Audio Captioning With the Transformer
+#### Audio Captioning With the Transformer
 
 <details><summary>Information</summary>
  <dl>
@@ -329,7 +329,7 @@ please feel free to create an issue.
 
 </details>
 
-### Automated Audio Captioning
+#### Automated Audio Captioning
 
 <details><summary>Information</summary>
  <dl>
@@ -362,7 +362,7 @@ please feel free to create an issue.
 
 </details>
 
-### IRIT-UPS DCASE 2020 audio captioning system
+#### IRIT-UPS DCASE 2020 audio captioning system
 
 <details><summary>Information</summary>
  <dl>
@@ -405,7 +405,7 @@ please feel free to create an issue.
 
 </details>
 
-### Task 6 DCASE 2020: Listen Carefully and Tell: An Audio Captioning System Based on Residual Learning and Gammatone Audio Representation
+#### Task 6 DCASE 2020: Listen Carefully and Tell: An Audio Captioning System Based on Residual Learning and Gammatone Audio Representation
 
 <details><summary>Information</summary>
  <dl>
@@ -441,7 +441,7 @@ please feel free to create an issue.
 
 </details>
 
-### Automated Audio Captioning
+#### Automated Audio Captioning
 
 <details><summary>Information</summary>
  <dl>
@@ -483,7 +483,7 @@ please feel free to create an issue.
 
 </details>
 
-### The NTT DCASE2020 Challenge Task 6 System: Automated Audio Captioning With Keywords and Sentence Length Estimation
+#### The NTT DCASE2020 Challenge Task 6 System: Automated Audio Captioning With Keywords and Sentence Length Estimation
 
 <details><summary>Information</summary>
  <dl>
@@ -519,7 +519,7 @@ please feel free to create an issue.
 
 </details>
 
-### Audio Captioning using Gated Recurrent Units
+#### Audio Captioning using Gated Recurrent Units
 
 <details><summary>Information</summary>
  <dl>
@@ -552,7 +552,7 @@ please feel free to create an issue.
 
 </details>
 
-### Clotho: An Audio Captioning Dataset
+#### Clotho: An Audio Captioning Dataset
 
 <details><summary>Information</summary>
  <dl>
@@ -592,7 +592,7 @@ please feel free to create an issue.
 
 # Year 2019
 
-### Crowdsourcing a Dataset of Audio Captions
+#### Crowdsourcing a Dataset of Audio Captions
 
 <details><summary>Information</summary>
  <dl>
@@ -630,7 +630,7 @@ please feel free to create an issue.
 
 </details>
 
-### Neural Audio Captioning Based On Conditional Sequence-to-Sequence Model
+#### Neural Audio Captioning Based On Conditional Sequence-to-Sequence Model
 
 <details><summary>Information</summary><br>
 
@@ -668,7 +668,7 @@ please feel free to create an issue.
 
 </details>
  
-### AudioCaps: Generating captions for audios in the wild
+#### AudioCaps: Generating captions for audios in the wild
 
 <details><summary>Information</summary><br>
 
@@ -720,7 +720,7 @@ please feel free to create an issue.
 
 </details>
 
-### Audio caption: Listen and tell
+#### Audio caption: Listen and tell
 
 <details><summary>Information</summary><br>
 
@@ -763,7 +763,7 @@ please feel free to create an issue.
 
 # Year 2017
 
-### Automated Audio Captioning with Recurrent Neural Networks
+#### Automated Audio Captioning with Recurrent Neural Networks
 
 
 <details><summary>Information</summary><br>
