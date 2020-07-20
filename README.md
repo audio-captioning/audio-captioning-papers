@@ -96,7 +96,7 @@ please feel free to create an issue.
 
 	@misc{cakir:2020:arxiv-a,
     title={Multi-task Regularization Based on Infrequent Classes for Audio Captioning},
-    author={E. Çakır and K. Drossos and T. Virtanen},
+    author={E. \c{C}ak{\i}r and K. Drossos and T. Virtanen},
     year={2020},
     eprint={2007.04660},
     archivePrefix={arXiv},
