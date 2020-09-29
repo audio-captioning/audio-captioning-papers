@@ -60,14 +60,13 @@ please feel free to create an issue.
 
    <dd>
 
-	@misc{takeuchi:2020:dcase,
+	@inproceedings{takeuchi:2020:dcase,
     title={Effects of Word-frequency based Pre- and Post- Processings for Audio Captioning},
     author={D. Takeuchi and Y. Koizumi and Y. Ohishi and N. Harada and and K. Kashino},
     year={2020},
-    eprint={2009.11436},
-    archivePrefix={arXiv},
-    primaryClass={eess.AS}}
-
+    booktitle={Detection and Classification of Acoustic Scenes and Events ({DCASE})},
+    month = {Nov.},}
+    
    </dd>
  </dl>
 
