@@ -40,6 +40,40 @@ please feel free to create an issue.
 1. [Year 2017](#year-2017)
   
 # Year 2020
+#### Effects of Word-frequency based Pre- and Post- Processings for Audio Captioning
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>D. Takeuchi, Y. Koizumi, Y. Ohishi, N. Harada, and K. Kashino,
+   "Effects of Word-frequency based Pre- and Post- Processings for Audio Captioning,"
+   in Detection and Classification of Acoustic Scenes and Events (DCASE) 2020,
+   Nov. 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://arxiv.org/abs/2007.00222">arXiv</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@misc{takeuchi:2020:dcase,
+    title={Effects of Word-frequency based Pre- and Post- Processings for Audio Captioning},
+    author={D. Takeuchi and Y. Koizumi and Y. Ohishi and N. Harada and and K. Kashino},
+    year={2020},
+    eprint={2009.11436},
+    archivePrefix={arXiv},
+    primaryClass={eess.AS}}
+
+   </dd>
+ </dl>
+
+----
+
+</details>
 
 #### A Transformer-based Audio Captioning Model with Keyword Estimation
 
