@@ -53,7 +53,7 @@ please feel free to create an issue.
  
    <dt>Paper links</dt>
    <dd>
-   <a href="https://arxiv.org/abs/2007.00222">arXiv</a>
+   <a href="https://arxiv.org/abs/2009.11436">arXiv</a>
    </dd>
 
    <dt>BibTex entry</dt>
