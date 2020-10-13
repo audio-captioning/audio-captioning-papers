@@ -81,7 +81,7 @@ please feel free to create an issue.
    <dt>Reference</dt>
    <dd>Y. Koizumi, R. Masumura, K. Nishida, M. Yasuda, and S. Saito,
    "A Transformer-based Audio Captioning Model with Keyword Estimation,"
-   in arXiv:2007.00222 [eess.AS], 2020
+   in INTERSPEECH, 2020
    </dd>
  
    <dt>Paper links</dt>
@@ -114,7 +114,8 @@ please feel free to create an issue.
    <dt>Reference</dt>
    <dd>E. Çakır, K. Drossos, and T. Virtanen, 
    "Multi-task Regularization Based on Infrequent Classes for Audio Captioning,"
-   in arXiv:2007.04660 [cs.SD], 2020
+   in Detection and Classification of Acoustic Scenes and Events (DCASE) 2020,
+   Nov. 2020
    </dd>
  
    <dt>Paper links</dt>
@@ -147,7 +148,8 @@ please feel free to create an issue.
    <dt>Reference</dt>
    <dd>K. Nguyen, K. Drossos, and T. Virtanen,
    "Temporal Sub-sampling of Audio Feature Sequences for Automated Audio Captioning,"
-   in arXiv:2007.02676 [eess.AS], 2020
+   in Detection and Classification of Acoustic Scenes and Events (DCASE) 2020,
+   Nov. 2020
    </dd>
  
    <dt>Paper links</dt>
