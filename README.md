@@ -93,13 +93,12 @@ please feel free to create an issue.
 
    <dd>
 
-	@misc{koizumi:2020:arxiv-a,
+	@inproceedings{koizumi:2020:interspeech,
     title={A Transformer-based Audio Captioning Model with Keyword Estimation},
     author={Y. Koizumi and R. Masumura and K. Nishida and M. Yasuda and S. Saito},
     year={2020},
-    eprint={2007.00222},
-    archivePrefix={arXiv},
-    primaryClass={eess.AS}}
+    booktitle={INTERSPEECH 2020},
+    month={Oct.}}
 
    </dd>
  </dl>
@@ -127,13 +126,12 @@ please feel free to create an issue.
 
    <dd>
 
-	@misc{cakir:2020:arxiv-a,
+	@inproceedings{cakir:2020:arxiv-a,
     title={Multi-task Regularization Based on Infrequent Classes for Audio Captioning},
     author={E. \c{C}ak{\i}r and K. Drossos and T. Virtanen},
     year={2020},
-    eprint={2007.04660},
-    archivePrefix={arXiv},
-    primaryClass={cs.SD}}
+    booktitle={Detection and Classification of Acoustic Scenes and Events ({DCASE})},
+    month = {Nov.},}
 
    </dd>
  </dl>
@@ -161,13 +159,12 @@ please feel free to create an issue.
 
    <dd>
 
-	@misc{nguyen:2020:arxiv-a,
+	@inproceedings{nguyen:2020:arxiv-a,
     title={Temporal Sub-sampling of Audio Feature Sequences for Automated Audio Captioning},
     author={K. Nguyen and K. Drossos and T. Virtanen},
     year={2020},
-    eprint={2007.02676},
-    archivePrefix={arXiv},
-    primaryClass={eess.AS}}
+    booktitle={Detection and Classification of Acoustic Scenes and Events ({DCASE})},
+    month = {Nov.},}
 
    </dd>
  </dl>
