@@ -45,6 +45,46 @@ please feel free to create an issue.
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
+   <dd>A. Tran, K. Drossos, and T. Virtanen,
+   "WaveTransformer: A Novel Architecture for Audio Captioning Based on Learning Temporal and Time-Frequency Information,"
+   in arXiv:2010.11098 [cs.SD], 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://arxiv.org/abs/2010.11098">arXiv</a>
+   </dd>
+   
+   <dt>Code</dt>
+   <dd>
+   <a href="https://github.com/haantran96/wavetransformer">GitHub</a>
+   </dd>
+
+   <dt>Online demo</dt>
+   <dd>
+   <a href="https://haantran96.github.io/wavetransformer-web-demo/">Online demo</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@misc{tran2020wavetransformer,
+      title={WaveTransformer: A Novel Architecture for Audio Captioning Based on Learning Temporal and Time-Frequency Information}, 
+      author={A. Tran and K. Drossos and T. Virtanen},
+      year={2020},
+      eprint={2010.11098},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD}}
+    
+   </dd>
+ </dl>
+
+----
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
    <dd>D. Takeuchi, Y. Koizumi, Y. Ohishi, N. Harada, and K. Kashino,
    "Effects of Word-frequency based Pre- and Post- Processings for Audio Captioning,"
    in Detection and Classification of Acoustic Scenes and Events (DCASE) 2020,
