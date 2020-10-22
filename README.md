@@ -82,6 +82,8 @@ please feel free to create an issue.
 
 ----
 
+</details>
+
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
