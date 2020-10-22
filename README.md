@@ -40,7 +40,7 @@ please feel free to create an issue.
 1. [Year 2017](#year-2017)
   
 # Year 2020
-#### Effects of Word-frequency based Pre- and Post- Processings for Audio Captioning
+#### WaveTransformer: A Novel Architecture for Audio Captioning Based on Learning Temporal and Time-Frequency Information
 
 <details><summary>Information</summary>
  <dl>
@@ -83,6 +83,8 @@ please feel free to create an issue.
 ----
 
 </details>
+
+#### Effects of Word-frequency based Pre- and Post- Processings for Audio Captioning
 
 <details><summary>Information</summary>
  <dl>
