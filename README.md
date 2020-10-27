@@ -132,7 +132,6 @@ please feel free to create an issue.
    <dd>
    <a href="https://arxiv.org/abs/2007.00222">arXiv</a>
    </dd>
-
    <dd>
    <a href="http://www.interspeech2020.org/uploadfile/pdf/Wed-1-2-8.pdf">INTERSPEECH 2020</a>
    </dd>
