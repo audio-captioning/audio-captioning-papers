@@ -489,7 +489,7 @@ please feel free to create an issue.
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
-   <dd>J. Naranjo-Alcaza, S. Perez-Castanos,
+   <dd>J. Naranjo-Alcazar, S. Perez-Castanos,
    P. Zuccarello, and M. Cobos, "Task 6 DCASE 2020:
    Listen Carefully and Tell: An Audio Captioning
    System Based on Residual Learning and Gammatone
