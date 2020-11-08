@@ -53,7 +53,7 @@ please feel free to create an issue.
  
    <dt>Paper links</dt>
    <dd>
-   <a href="http://dcase.community/documents/workshop2020/proceedings/DCASE2020Workshop_Chen_16.pdf">Proceedings DCASE</a>
+   <a href="http://dcase.community/documents/workshop2020/proceedings/DCASE2020Workshop_Chen_16.pdf">DCASE2020 Proceedings</a>
    </dd>
    
    <dt>Code</dt>
@@ -66,13 +66,13 @@ please feel free to create an issue.
    <dd>
 
 	@inproceedings{chen:2020:dcase,
-      author = "K. Chen and Y. Wu and Z. Wang and X. Zhang and F. Nian and S. Li and X. Shao",
-      title = "Audio Captioning Based on Transformer and Pre-Trained {CNN}",
-    booktitle = "Proceedings of the Detection and Classification of Acoustic Scenes and Events 2020 Workshop ({DCASE2020})",
-    address = "Tokyo, Japan",
-    month = "Nov.",
-    year = "2020",
-    pages = "21--25"}
+      author = {K. Chen and Y. Wu and Z. Wang and X. Zhang and F. Nian and S. Li and X. Shao},
+      title = {Audio Captioning Based on Transformer and Pre-Trained {CNN}},
+    booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events 2020 Workshop ({DCASE2020})},
+    address = {Tokyo, Japan},
+    month = {Nov.},
+    year = {2020},
+    pages = {21--25},}
     
    </dd>
  </dl>
@@ -140,6 +140,9 @@ please feel free to create an issue.
    <dd>
    <a href="https://arxiv.org/abs/2009.11436">arXiv</a>
    </dd>
+   <dd>
+   <a href="http://dcase.community/documents/workshop2020/proceedings/DCASE2020Workshop_Takeuchi_79.pdf">DCASE2020 Proceedings</a>
+   </dd>
 
    <dt>BibTex entry</dt>
 
@@ -148,9 +151,11 @@ please feel free to create an issue.
 	@inproceedings{takeuchi:2020:dcase,
     title={Effects of Word-frequency based Pre- and Post- Processings for Audio Captioning},
     author={D. Takeuchi and Y. Koizumi and Y. Ohishi and N. Harada and K. Kashino},
-    year={2020},
-    booktitle={Detection and Classification of Acoustic Scenes and Events ({DCASE})},
-    month = {Nov.},}
+    booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events 2020 Workshop ({DCASE2020})},
+    address = {Tokyo, Japan},
+    month = {Nov.},
+    year = {2020},
+    pages = {190--194},}
     
    </dd>
  </dl>
@@ -186,7 +191,7 @@ please feel free to create an issue.
     author={Y. Koizumi and R. Masumura and K. Nishida and M. Yasuda and S. Saito},
     year={2020},
     booktitle={INTERSPEECH 2020},
-    month={Oct.}}
+    month={Oct.},}
 
    </dd>
  </dl>
@@ -210,6 +215,9 @@ please feel free to create an issue.
    <dd>
    <a href="https://arxiv.org/abs/2007.04660">arXiv</a>
    </dd>
+   <dd>
+   <a href="http://dcase.community/documents/workshop2020/proceedings/DCASE2020Workshop_Cakir_52.pdf">DCASE2020 Proceedings</a>
+   </dd>
 
    <dt>BibTex entry</dt>
 
@@ -218,9 +226,11 @@ please feel free to create an issue.
 	@inproceedings{cakir:2020:arxiv-a,
     title={Multi-task Regularization Based on Infrequent Classes for Audio Captioning},
     author={E. \c{C}ak{\i}r and K. Drossos and T. Virtanen},
-    year={2020},
-    booktitle={Detection and Classification of Acoustic Scenes and Events ({DCASE})},
-    month = {Nov.},}
+    booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events 2020 Workshop ({DCASE2020})},
+    address = {Tokyo, Japan},
+    month = {Nov.},
+    year = {2020},
+    pages = {6--10},}
 
    </dd>
  </dl>
@@ -244,17 +254,22 @@ please feel free to create an issue.
    <dd>
    <a href="https://arxiv.org/abs/2007.02676">arXiv</a>
    </dd>
+   <dd>
+   <a href="http://dcase.community/documents/workshop2020/proceedings/DCASE2020Workshop_Nguyen_45.pdf">DCASE2020 Proceedings</a>
+   </dd>
 
    <dt>BibTex entry</dt>
 
    <dd>
 
-	@inproceedings{nguyen:2020:arxiv-a,
+	@inproceedings{nguyen:2020:dcase,
     title={Temporal Sub-sampling of Audio Feature Sequences for Automated Audio Captioning},
     author={K. Nguyen and K. Drossos and T. Virtanen},
-    year={2020},
-    booktitle={Detection and Classification of Acoustic Scenes and Events ({DCASE})},
-    month = {Nov.},}
+    booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events 2020 Workshop ({DCASE2020})},
+    address = {Tokyo, Japan},
+    month = {Nov.},
+    year = {2020},
+    pages = {110--114},}
 
    </dd>
  </dl>
