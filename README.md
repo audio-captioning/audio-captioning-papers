@@ -40,6 +40,47 @@ please feel free to create an issue.
 1. [Year 2017](#year-2017)
   
 # Year 2020
+#### Audio Captioning Based on Transformer and Pre-Trained CNN
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>K. Chen, Y. Wu, Z. Wang, X. Zhang, F. Nian, S. Li, and X. Shao,
+   "Audio Captioning Based on Transformer and Pre-Trained CNN,"
+   in Detection and Classification of Acoustic Scenes and Events (DCASE) 2020,
+   Nov. 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/workshop2020/proceedings/DCASE2020Workshop_Chen_16.pdf">Proceedings DCASE</a>
+   </dd>
+   
+   <dt>Code</dt>
+   <dd>
+   <a href="https://github.com/lukewys/dcase_2020_T6">GitHub</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@inproceedings{chen:2020:dcase,
+      author = "K. Chen and Y. Wu and Z. Wang and X. Zhang and F. Nian and S. Li and X. Shao",
+      title = "Audio Captioning Based on Transformer and Pre-Trained {CNN}",
+    booktitle = "Proceedings of the Detection and Classification of Acoustic Scenes and Events 2020 Workshop ({DCASE2020})",
+    address = "Tokyo, Japan",
+    month = "Nov.",
+    year = "2020",
+    pages = "21--25"}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
 #### WaveTransformer: A Novel Architecture for Audio Captioning Based on Learning Temporal and Time-Frequency Information
 
 <details><summary>Information</summary>
@@ -69,7 +110,7 @@ please feel free to create an issue.
 
    <dd>
 
-	@misc{tran2020wavetransformer,
+	@misc{tran:2020:wavetransformer,
       title={WaveTransformer: A Novel Architecture for Audio Captioning Based on Learning Temporal and Time-Frequency Information}, 
       author={A. Tran and K. Drossos and T. Virtanen},
       year={2020},
