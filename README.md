@@ -38,6 +38,8 @@ please feel free to create an issue.
 1. [Year 2020](#year-2020)
 1. [Year 2019](#year-2019)
 1. [Year 2017](#year-2017)
+
+----
   
 # Year 2020
 #### A CRNN-GRU Based Reinforcement Learning Approach to Audio Captioning
