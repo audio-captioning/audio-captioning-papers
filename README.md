@@ -40,6 +40,47 @@ please feel free to create an issue.
 1. [Year 2017](#year-2017)
   
 # Year 2020
+#### A CRNN-GRU Based Reinforcement Learning Approach to Audio Captioning
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>X. Xu, H. Dinkel, M. Wu, and K. Yu,
+   "A CRNN-GRU Based Reinforcement Learning Approach to Audio Captioning,"
+   in Detection and Classification of Acoustic Scenes and Events (DCASE) 2020,
+   Nov. 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/workshop2020/proceedings/DCASE2020Workshop_Xu_83.pdf">DCASE2020 Proceedings</a>
+   </dd>
+   
+   <dt>Code</dt>
+   <dd>
+   <a href="https://github.com/wsntxxn/DCASE2020T6">GitHub</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@inproceedings{xu:2020:dcase,
+      author = {X. Xu and H. Dinkel and M. Wu and K. Yu},
+      title = {A {CRNN-GRU} Based Reinforcement Learning Approach to Audio Captioning},
+    booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events 2020 Workshop ({DCASE2020})},
+    address = {Tokyo, Japan},
+    month = {Nov.},
+    year = {2020},
+    pages = {225--229},}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
 #### Audio Captioning Based on Transformer and Pre-Trained CNN
 
 <details><summary>Information</summary>
