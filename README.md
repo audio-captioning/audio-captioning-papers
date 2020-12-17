@@ -42,6 +42,42 @@ please feel free to create an issue.
 ----
   
 # Year 2020
+#### Audio Captioning using Pre-Trained Large-Scale Language Model Guided by Audio-based Similar Caption Retrieval
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>Y. Koizumi, Y. Ohishi, D. Niizumi, D. Takeuchi, and M. Yasuda,
+   "Audio Captioning using Pre-Trained Large-Scale Language Model Guided by Audio-based Similar Caption Retrieval,"
+   in arXiv:2012.07331 [eess.AS], 2020,
+   Nov. 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://arxiv.org/abs/2012.07331">arXiv</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@misc{xu:2020:dcase,
+      author = {Y. Koizumi and Y. Ohishi and D. Niizumi and D. Takeuchi and M. Yasuda},
+      title = {Audio Captioning using Pre-Trained Large-Scale Language Model Guided by Audio-based Similar Caption Retrieval},
+      year={2020},
+      eprint={2012.07331},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+
 #### A CRNN-GRU Based Reinforcement Learning Approach to Audio Captioning
 
 <details><summary>Information</summary>
