@@ -62,7 +62,7 @@ please feel free to create an issue.
 
    <dd>
 
-	@misc{xu:2020:dcase,
+	@misc{koizumi:2020:arxiv,
       author = {Y. Koizumi and Y. Ohishi and D. Niizumi and D. Takeuchi and M. Yasuda},
       title = {Audio Captioning using Pre-Trained Large-Scale Language Model Guided by Audio-based Similar Caption Retrieval},
       year={2020},
