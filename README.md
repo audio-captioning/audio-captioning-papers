@@ -899,7 +899,7 @@ please feel free to create an issue.
  
    <dt>Paper links</dt>
    <dd>
-   <a href="https://arxiv.org/abs/1706.10006">acwlweb</a>
+   <a href="https://www.aclweb.org/anthology/N19-1011/">acwlweb</a>
    </dd>
  
    <dt>Code</dt>
