@@ -77,6 +77,8 @@ please feel free to create an issue.
 ----
 
 </details>
+
+
 #### Audio Captioning using Pre-Trained Large-Scale Language Model Guided by Audio-based Similar Caption Retrieval
 
 <details><summary>Information</summary>
