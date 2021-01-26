@@ -35,9 +35,14 @@ please feel free to create an issue.
 
 ## Table of contents
 
+1. [Year 2021](#year-2021)
 1. [Year 2020](#year-2020)
 1. [Year 2019](#year-2019)
 1. [Year 2017](#year-2017)
+
+----
+
+# Year 2021
 
 ----
   
