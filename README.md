@@ -42,6 +42,41 @@ please feel free to create an issue.
 ----
   
 # Year 2020
+#### Audio Captioning Based on Combined Audio and Semantic Embeddings
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>A. Ö. Eren and M. Sert,
+   "Audio Captioning Based on Combined Audio and Semantic Embeddings,"
+   in proceedings of 2020 IEEE International Symposium on Multimedia (ISM),
+   Dec. 2020
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://ieeexplore.ieee.org/abstract/document/9327916">ieeexplore</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@misc{eren:2020:ism,
+      author = {A. \"{O}. Eren and M. Sert},
+      booktitle={2020 IEEE International Symposium on Multimedia (ISM)}, 
+      title={Audio Captioning Based on Combined Audio and Semantic Embeddings}, 
+      year={2020},
+      pages={41-48},
+      doi={10.1109/ISM.2020.00014}}
+
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
 #### Audio Captioning using Pre-Trained Large-Scale Language Model Guided by Audio-based Similar Caption Retrieval
 
 <details><summary>Information</summary>
