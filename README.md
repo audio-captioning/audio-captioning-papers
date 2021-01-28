@@ -848,6 +848,40 @@ please feel free to create an issue.
 
 # Year 2019
 
+#### Audio Caption in a Car Setting with a Sentence-Level Loss
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>X. Xu, H. Dinkel, M. Wu, and K. Yu, "Audio Caption
+   in a Car Setting with a Sentence-Level Loss," in 
+   arXiv:1905.13448 [cs.SD], 2019
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://arxiv.org/abs/1905.13448">arXiv</a>
+   </dd>
+ 
+   <dt>BibTex entry</dt>
+
+   <dd>
+ 
+	@misc{xu:2020:audio,
+        title={Audio Caption in a Car Setting with a Sentence-Level Loss}, 
+        author={Xuenan Xu and Heinrich Dinkel and Mengyue Wu and Kai Yu},
+        year={2019},
+        eprint={1905.13448},
+        archivePrefix={arXiv},
+        primaryClass={cs.SD}}
+ 
+   </dd>
+ </dl>
+
+----
+
+</details>
+
 #### Crowdsourcing a Dataset of Audio Captions
 
 <details><summary>Information</summary>
