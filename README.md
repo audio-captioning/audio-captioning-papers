@@ -68,7 +68,7 @@ please feel free to create an issue.
    <dd>
 
 	@INPROCEEDINGS{eren:2020:ism,
-  	author={A. Ö. {Eren} and M. {Sert}},
+  	author={A. \"{O}. {Eren} and M. {Sert}},
   	booktitle={2020 IEEE International Symposium on Multimedia (ISM)}, 
   	title={Audio Captioning Based on Combined Audio and Semantic Embeddings}, 
   	year={2020},
@@ -149,11 +149,11 @@ please feel free to create an issue.
 	@inproceedings{xu:2020:dcase,
       author = {X. Xu and H. Dinkel and M. Wu and K. Yu},
       title = {A {CRNN-GRU} Based Reinforcement Learning Approach to Audio Captioning},
-    booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events 2020 Workshop ({DCASE2020})},
-    address = {Tokyo, Japan},
-    month = {Nov.},
-    year = {2020},
-    pages = {225--229},}
+      booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events 2020 Workshop ({DCASE2020})},
+      address = {Tokyo, Japan},
+      month = {Nov.},
+      year = {2020},
+      pages = {225--229},}
     
    </dd>
  </dl>
@@ -190,11 +190,11 @@ please feel free to create an issue.
 	@inproceedings{chen:2020:dcase,
       author = {K. Chen and Y. Wu and Z. Wang and X. Zhang and F. Nian and S. Li and X. Shao},
       title = {Audio Captioning Based on Transformer and Pre-Trained {CNN}},
-    booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events 2020 Workshop ({DCASE2020})},
-    address = {Tokyo, Japan},
-    month = {Nov.},
-    year = {2020},
-    pages = {21--25},}
+      booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events 2020 Workshop ({DCASE2020})},
+      address = {Tokyo, Japan},
+      month = {Nov.},
+      year = {2020},
+      pages = {21--25},}
     
    </dd>
  </dl>
