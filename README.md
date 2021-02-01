@@ -67,13 +67,14 @@ please feel free to create an issue.
 
    <dd>
 
-	@misc{eren:2020:ism,
-      author = {A. \"{O}. Eren and M. Sert},
-      booktitle={2020 IEEE International Symposium on Multimedia (ISM)}, 
-      title={Audio Captioning Based on Combined Audio and Semantic Embeddings}, 
-      year={2020},
-      pages={41-48},
-      doi={10.1109/ISM.2020.00014}}
+	@INPROCEEDINGS{eren:2020:ism,
+  	author={A. Ö. {Eren} and M. {Sert}},
+  	booktitle={2020 IEEE International Symposium on Multimedia (ISM)}, 
+  	title={Audio Captioning Based on Combined Audio and Semantic Embeddings}, 
+  	year={2020},
+  	pages={41-48},
+  	doi={10.1109/ISM.2020.00014}}
+
 
     
    </dd>
