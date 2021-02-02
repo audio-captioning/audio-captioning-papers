@@ -465,7 +465,7 @@ please feel free to create an issue.
    <dd>
 
     @techreport{wu-y:2020:dcase:tech-report,
-    author = {Y. Wu, K. Chen, Z. Wang, X. Zhang, F. Nian, S. Li, and X. Shao},
+    author = {Y. Wu and K. Chen and Z. Wang and X. Zhang and F. Nian and S. Li and X. Shao},
     title = {Audio Captioning Based on Transformer and Pre-Training for 2020 DCASE Audio Captioning Challenge},
     institution = {DCASE2020 Challenge},
     year = {2020},
@@ -649,7 +649,7 @@ please feel free to create an issue.
    <dd>
 
     @techreport{pellegrini:2020:dcase:tech-report,
-    author = {Thomas Pellegrini},
+    author = {T. Pellegrini},
     title = {IRIT-UPS DCASE 2020 audio captioning system},
     institution = {DCASE2020 Challenge},
     year = {2020},
@@ -796,7 +796,7 @@ please feel free to create an issue.
  
     @misc{eren:2020:arxiv,
     title={Audio Captioning using Gated Recurrent Units},
-    author={Ay\c{s}eg\"{u}}l \"{O}zkaya Eren and Mustafa Sert},
+    author={A. \"{O}. Eren and M. Sert},
     year={2020},
     eprint={2006.03391},
     archivePrefix={arXiv},
@@ -870,7 +870,7 @@ please feel free to create an issue.
  
 	@misc{xu:2020:audio,
         title={Audio Caption in a Car Setting with a Sentence-Level Loss}, 
-        author={Xuenan Xu and Heinrich Dinkel and Mengyue Wu and Kai Yu},
+        author={X. Xu and H. Dinkel and M. Wu and K. Yu},
         year={2019},
         eprint={1905.13448},
         archivePrefix={arXiv},
@@ -943,7 +943,7 @@ please feel free to create an issue.
    <dd>
  
     @inproceedings{ikawa:2019:dcase,
-    author = {Shota Ikawa and Kunio Kashino},
+    author = {S. Ikawa and K. Kashino},
     title = {Neural Audio Captioning Based On Conditional Sequence-to-Sequence Model},
     booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events 2019 Workshop ({DCASE2019})},
     address = {New York University, NY, USA},
