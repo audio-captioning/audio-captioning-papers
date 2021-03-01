@@ -43,6 +43,76 @@ please feel free to create an issue.
 ----
 
 # Year 2021
+#### Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>X. Xu, H. Dinkel, M. Wu, and K. Yu,
+   "Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events,"
+   in arXiv:2102.11474 [cs.SD], 2021,
+   Feb. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://arxiv.org/abs/2102.11474">arXiv</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@misc{xu:2021:arxiv-b,
+      title={Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events}, 
+      author={Xuenan Xu and Heinrich Dinkel and Mengyue Wu and Kai Yu},
+      year={2021},
+      eprint={2102.11474},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+#### Investigating Local and Global Information for Automated Audio Captioning with Transfer Learning
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>X. Xu, H. Dinkel, M. Wu, Z. Xie, and K. Yu,
+   "Investigating Local and Global Information for Automated Audio Captioning with Transfer Learning,"
+   in arXiv:2102.11457 [cs.SD], 2021,
+   Feb. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://arxiv.org/abs/2102.11457">arXiv</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@misc{xu:2021:arxiv-a,
+      title={Investigating Local and Global Information for Automated Audio Captioning with Transfer Learning}, 
+      author={Xuenan Xu and Heinrich Dinkel and Mengyue Wu and Zeyu Xie and Kai Yu},
+      year={2021},
+      eprint={2102.11457},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
 
 ----
   
