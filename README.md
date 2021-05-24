@@ -83,7 +83,7 @@ please feel free to create an issue.
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
-   <dd>A. O. Eren and M. Sert,
+   <dd>A. Ö. Eren and M. Sert,
    "Audio Captioning with Composition of Acoustic and Semantic Information,"
    in arXiv:2105.06355[cs.SD], 2021,
    May 2021
