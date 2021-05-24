@@ -43,6 +43,41 @@ please feel free to create an issue.
 ----
 
 # Year 2021
+#### Audio Retrieval with Natural Language Queries
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>A. - M. Oncescu, A. S. Koepke, J. F. Henriques, Z. Akata, and S. Albanie,
+   "Audio Retrieval with Natural Language Queries,"
+   in arXiv:2105.02192[cs.IR], 2021,
+   May 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://arxiv.org/abs/2105.02192">arXiv</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@misc{eren:2021:arxiv,
+      title={Audio Retrieval with Natural Language Queries}, 
+      author={Andreea-Maria Oncescu, and A. Sophia Koepke, and Jo\~{a}o F. Henriques, and Zeynep Akata, and Samuel Albanie},
+      year={2021},
+      eprint={2105.02192},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
 #### Audio Captioning with Composition of Acoustic and Semantic Information
 
 <details><summary>Information</summary>
@@ -51,7 +86,7 @@ please feel free to create an issue.
    <dd>A. O. Eren and M. Sert,
    "Audio Captioning with Composition of Acoustic and Semantic Information,"
    in arXiv:2105.06355[cs.SD], 2021,
-   Feb. 2021
+   May 2021
    </dd>
  
    <dt>Paper links</dt>
