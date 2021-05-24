@@ -43,6 +43,41 @@ please feel free to create an issue.
 ----
 
 # Year 2021
+#### Audio Captioning with Composition of Acoustic and Semantic Information
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>A. O. Eren and M. Sert,
+   "Audio Captioning with Composition of Acoustic and Semantic Information,"
+   in arXiv:2105.06355[cs.SD], 2021,
+   Feb. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://arxiv.org/abs/2105.06355">arXiv</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@misc{eren:2021:arxiv,
+      title={Audio Captioning with Composition of Acoustic and Semantic Information}, 
+      author={Ay\c{s}e\"{u} \"{O}zkaya Eren and Mustafa Sert},
+      year={2021},
+      eprint={2105.06355},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
 #### Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events
 
 <details><summary>Information</summary>
