@@ -999,27 +999,27 @@ please feel free to create an issue.
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
-   <dd>X. Xu, H. Dinkel, M. Wu, and K. Yu, "Audio Caption
-   in a Car Setting with a Sentence-Level Loss," in 
-   arXiv:1905.13448 [cs.SD], 2019
+   <dd>X. Xu, H. Dinkel, M. Wu, and K. Yu, "Audio Caption in a Car Setting with a Sentence-Level Loss," in 12th International Symposium on Chinese Spoken Language Processing (ISCSLP), 2021, pp. 1-5
    </dd>
  
    <dt>Paper links</dt>
    <dd>
    <a href="https://arxiv.org/abs/1905.13448">arXiv</a>
+
+   <a href="https://ieeexplore.ieee.org/document/9362117">ieeexplore</a>
    </dd>
  
    <dt>BibTex entry</dt>
 
    <dd>
  
-	@misc{xu:2020:audio,
-        title={Audio Caption in a Car Setting with a Sentence-Level Loss}, 
-        author={X. Xu and H. Dinkel and M. Wu and K. Yu},
-        year={2019},
-        eprint={1905.13448},
-        archivePrefix={arXiv},
-        primaryClass={cs.SD}}
+  @inproceedings{xu:2021:ISCSLP,
+    author={Xuenan Xu and Heinrich Dinkel and Mengyue Wu and Kai Yu},
+    booktitle={12th International Symposium on Chinese Spoken Language Processing (ISCSLP)}, 
+    title={Audio Caption in a Car Setting with a Sentence-Level Loss}, 
+    year={2021},
+    pages={1-5},
+    doi={10.1109/ISCSLP49672.2021.9362117}}
  
    </dd>
  </dl>
