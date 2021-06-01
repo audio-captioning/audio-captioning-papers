@@ -133,19 +133,30 @@ please feel free to create an issue.
    <dd>
    <a href="https://arxiv.org/abs/2102.11474">arXiv</a>
    </dd>
+   <dd>
+   <a href="https://ieeexplore.ieee.org/document/9414834">arXiv</a>
+   </dd>
 
    <dt>BibTex entry</dt>
 
    <dd>
 
-	@misc{xu:2021:arxiv-b,
-      title={Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events}, 
+  # @misc{xu:2021:arxiv-b,
+  #    title={Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events}, 
+  #    author={Xuenan Xu and Heinrich Dinkel and Mengyue Wu and Kai Yu},
+  #    year={2021},
+  #    eprint={2102.11474},
+  #    archivePrefix={arXiv},
+  #    primaryClass={cs.SD}}
+
+  @INPROCEEDINGS{Xu:2021:ICASSP,
       author={Xuenan Xu and Heinrich Dinkel and Mengyue Wu and Kai Yu},
+      booktitle={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+      title={Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events}, 
       year={2021},
-      eprint={2102.11474},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD}}
-    
+      pages={606--610},
+      doi={10.1109/ICASSP39728.2021.9414834}}
+
    </dd>
  </dl>
 
