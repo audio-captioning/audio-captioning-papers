@@ -132,8 +132,6 @@ please feel free to create an issue.
    <dt>Paper links</dt>
    <dd>
    <a href="https://arxiv.org/abs/2102.11474">arXiv</a>
-   </dd>
-   <dd>
    <a href="https://ieeexplore.ieee.org/document/9414834">ICASSP</a>
    </dd>
 
