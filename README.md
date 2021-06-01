@@ -148,6 +148,14 @@ please feel free to create an issue.
       pages={606--610},
       doi={10.1109/ICASSP39728.2021.9414834}}
 
+	@misc{koizumi:2020:arxiv,
+      author = {Y. Koizumi and Y. Ohishi and D. Niizumi and D. Takeuchi and M. Yasuda},
+      title = {Audio Captioning using Pre-Trained Large-Scale Language Model Guided by Audio-based Similar Caption Retrieval},
+      year={2020},
+      eprint={2012.07331},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS}}
+
    </dd>
  </dl>
 
