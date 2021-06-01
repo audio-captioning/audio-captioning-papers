@@ -138,7 +138,7 @@ please feel free to create an issue.
 
    <dd>
 
-	@inproceedings{Xu:2021:ICASSP,
+	@inproceedings{Xu:2021:ICASSP:01,
       author={Xuenan Xu and Heinrich Dinkel and Mengyue Wu and Kai Yu},
       booktitle={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
       title={Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events}, 
@@ -159,28 +159,28 @@ please feel free to create an issue.
  <dl>
    <dt>Reference</dt>
    <dd>X. Xu, H. Dinkel, M. Wu, Z. Xie, and K. Yu,
-   "Investigating Local and Global Information for Automated Audio Captioning with Transfer Learning,"
-   in arXiv:2102.11457 [cs.SD], 2021,
-   Feb. 2021
+   "Investigating Local and Global Information for Automated Audio Captioning with Transfer Learning," in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Jun. 2021, pp. 905-909
    </dd>
  
    <dt>Paper links</dt>
    <dd>
    <a href="https://arxiv.org/abs/2102.11457">arXiv</a>
+
+   <a href="https://ieeexplore.ieee.org/document/9413982">ieeexplore</a>
    </dd>
 
    <dt>BibTex entry</dt>
 
    <dd>
 
-	@misc{xu:2021:arxiv-a,
-      title={Investigating Local and Global Information for Automated Audio Captioning with Transfer Learning}, 
+	@inproceedings{Xu:2021:ICASSP:02,
       author={Xuenan Xu and Heinrich Dinkel and Mengyue Wu and Zeyu Xie and Kai Yu},
+      booktitle={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+      title={Investigating Local and Global Information for Automated Audio Captioning with Transfer Learning}, 
       year={2021},
-      eprint={2102.11457},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD}}
-    
+      pages={905--909},
+      doi={10.1109/ICASSP39728.2021.9413982}}
+
    </dd>
  </dl>
 
