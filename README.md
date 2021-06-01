@@ -124,9 +124,7 @@ please feel free to create an issue.
  <dl>
    <dt>Reference</dt>
    <dd>X. Xu, H. Dinkel, M. Wu, and K. Yu,
-   "Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events,"
-   in arXiv:2102.11474 [cs.SD], 2021,
-   Feb. 2021
+   "Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events," in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Jun. 2021, pp. 606-610
    </dd>
  
    <dt>Paper links</dt>
@@ -147,14 +145,6 @@ please feel free to create an issue.
       year={2021},
       pages={606--610},
       doi={10.1109/ICASSP39728.2021.9414834}}
-
-	@misc{koizumi:2020:arxiv,
-      author = {Y. Koizumi and Y. Ohishi and D. Niizumi and D. Takeuchi and M. Yasuda},
-      title = {Audio Captioning using Pre-Trained Large-Scale Language Model Guided by Audio-based Similar Caption Retrieval},
-      year={2020},
-      eprint={2012.07331},
-      archivePrefix={arXiv},
-      primaryClass={eess.AS}}
 
    </dd>
  </dl>
