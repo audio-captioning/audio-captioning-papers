@@ -140,7 +140,7 @@ please feel free to create an issue.
 
    <dd>
 
-  @INPROCEEDINGS{Xu:2021:ICASSP,
+	@inproceedings{Xu:2021:ICASSP,
       author={Xuenan Xu and Heinrich Dinkel and Mengyue Wu and Kai Yu},
       booktitle={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
       title={Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events}, 
