@@ -1013,7 +1013,7 @@ please feel free to create an issue.
 
    <dd>
  
-  @inproceedings{xu:2021:ISCSLP,
+	@inproceedings{xu:2021:ISCSLP,
     author={Xuenan Xu and Heinrich Dinkel and Mengyue Wu and Kai Yu},
     booktitle={12th International Symposium on Chinese Spoken Language Processing (ISCSLP)}, 
     title={Audio Caption in a Car Setting with a Sentence-Level Loss}, 
