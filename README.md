@@ -70,7 +70,7 @@ please feel free to create an issue.
 
 	@misc{eren:2021:arxiv,
       title={Audio Retrieval with Natural Language Queries}, 
-      author={Andreea-Maria Oncescu, and A. Sophia Koepke, and Jo\~{a}o F. Henriques, and Zeynep Akata, and Samuel Albanie},
+      author={Andreea-Maria Oncescu and A. Sophia Koepke and Jo\~{a}o F. Henriques and Zeynep Akata and Samuel Albanie},
       year={2021},
       eprint={2105.02192},
       archivePrefix={arXiv},
