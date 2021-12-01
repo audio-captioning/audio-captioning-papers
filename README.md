@@ -48,9 +48,9 @@ please feel free to create an issue.
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
-   <dd>Weck, B., Favory, X., Drossos, K., & Serra, X. (2021, November).
-	   Evaluating Off-the-Shelf Machine Listening and Natural Language Models for Automated Audio Captioning.
-	   Proceedings of the Detection and Classification of Acoustic Scenes and Events 2021 Workshop (DCASE2021), 60–64. Barcelona, Spain.
+   <dd>B. Weck, X. Favory, K. Drossos, and X. Serra, "Evaluating Off-the-Shelf Machine Listening and Natural
+	   Language Models for Automated Audio Captioning," in Proceedings of the Detection and Classification of
+	   Acoustic Scenes and Events 2021 Workshop (DCASE 2021), pp. 60–64, Nov. 2021, Barcelona, Spain
    </dd>
  
    <dt>Paper links</dt>
@@ -66,14 +66,13 @@ please feel free to create an issue.
    <dd>
 
 	@inproceedings{Weck2021,
-    author = "Weck, Benno and Favory, Xavier and Drossos, Konstantinos and Serra, Xavier",
-    title = "Evaluating Off-the-Shelf Machine Listening and Natural Language Models for Automated Audio Captioning",
-    booktitle = "Proceedings of the Detection and Classification of Acoustic Scenes and Events 2021 Workshop (DCASE2021)",
-    address = "Barcelona, Spain",
-    month = "November",
-    year = "2021",
-    pages = "60--64"
-	}
+    author = {Benno Weck and Xavier Favory and Konstantinos Drossos and Xavier Serra},
+    title = {Evaluating Off-the-Shelf Machine Listening and Natural Language Models for Automated Audio Captioning},
+    booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events 2021 Workshop (DCASE2021)},
+    address = {Barcelona, Spain},
+    month = {November},
+    year = {2021},
+    pages = {60--64}}
     
    </dd>
  </dl>
