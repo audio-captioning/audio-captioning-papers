@@ -152,7 +152,7 @@ please feel free to create an issue.
 
 </details>
 
-#### Automated Audio Captioning With Mlp-Mixer And Pre-Trained Encoder
+#### Automated Audio Captioning With MLP-Mixer And Pre-Trained Encoder
 
 <details><summary>Information</summary>
  <dl>
@@ -185,13 +185,13 @@ please feel free to create an issue.
 
 </details>
 
-#### The Sjtu System For Dcase2021 Challenge Task 6: Audio Captioning Based On Encoder Pre-Training And Reinforcement Learning
+#### The SJTU System For DCASE2021 Challenge Task 6: Audio Captioning Based On Encoder Pre-Training And Reinforcement Learning
 
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
    <dd>X. Xu, Z. Xie, M. Wu, and Kai Yu,
-       "The Sjtu System For Dcase2021 Challenge Task 6: Audio Captioning Based On Encoder Pre-Training And Reinforcement Learning,"
+       "The SJTU System For DCASE2021 Challenge Task 6: Audio Captioning Based On Encoder Pre-Training And Reinforcement Learning,"
 	DCASE2021 Challenge, Tech. Rep., Jun. 2021
    </dd>
  
@@ -206,7 +206,7 @@ please feel free to create an issue.
 
     @techreport{xu:2021:dcase:tech-report,
     	author = {X. Xu and Z. Xie and M. Wu and Kai Yu},
-    	title = {The Sjtu System For Dcase2021 Challenge Task 6: Audio Captioning Based On Encoder Pre-Training And Reinforcement Learning},
+    	title = {The {SJTU} System For {DCASE}2021 Challenge Task 6: Audio Captioning Based On Encoder Pre-Training And Reinforcement Learning},
     	institution = {DCASE2021 Challenge},
     	year = {2021},
     	month = {Jun.}}
