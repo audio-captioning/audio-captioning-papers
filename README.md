@@ -114,6 +114,181 @@ please feel free to create an issue.
 
 </details>
 
+#### Improving The Performance Of Automated Audio Captioning Via Integrating The Acoustic And Textual Information
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>Z. Ye, H. Wang, D. Yang, and Y. Zou,
+       "Improving The Performance Of Automated Audio Captioning Via Integrating The Acoustic And Textual Information,"
+	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Ye_21_t6.pdf">DCASE2021</a>
+   </dd>
+ 
+   <dt>Code</dt>
+   <dd>
+   <a href="https://github.com/WangHelin1997/DCASE2021_Task6_PKU">GitHub</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{ye:2021:dcase:tech-report,
+    	author = {Z. Ye and H. Wang and D. Yang and Y. Zou},
+    	title = {Improving The Performance Of Automated Audio Captioning Via Integrating The Acoustic And Textual Information},
+    	institution = {DCASE2021 Challenge},
+    	year = {2021},
+    	month = {Jun.}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+#### Automated Audio Captioning With Mlp-Mixer And Pre-Trained Encoder
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>F. Xiao, J. Guan, and Q. Kong,
+       "Automated Audio Captioning With MLP-Mixer And Pre-Trained Encoder,"
+	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Xiao_10_t6.pdf">DCASE2021</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{xiao:2021:dcase:tech-report,
+    	author = {F. Xiao and J. Guan and Q. Kong},
+    	title = {Automated Audio Captioning With {MLP}-Mixer And Pre-Trained Encoder},
+    	institution = {DCASE2021 Challenge},
+    	year = {2021},
+    	month = {Jun.}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+#### The Sjtu System For Dcase2021 Challenge Task 6: Audio Captioning Based On Encoder Pre-Training And Reinforcement Learning
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>X. Xu, Z. Xie, M. Wu, and Kai Yu,
+       "The Sjtu System For Dcase2021 Challenge Task 6: Audio Captioning Based On Encoder Pre-Training And Reinforcement Learning,"
+	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Xu_119_t6.pdf">DCASE2021</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{xu:2021:dcase:tech-report,
+    	author = {X. Xu and Z. Xie and M. Wu and Kai Yu},
+    	title = {The Sjtu System For Dcase2021 Challenge Task 6: Audio Captioning Based On Encoder Pre-Training And Reinforcement Learning},
+    	institution = {DCASE2021 Challenge},
+    	year = {2021},
+    	month = {Jun.}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+#### Audio Captioning Using Sound Event Detection
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>A. Ö. Eren and M. Sert,
+       "Audio Captioning Using Sound Event Detection,"
+	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Eren_83_t6.pdf">DCASE2021</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{eren:2021:dcase:tech-report,
+    	author = {A. \"{O}. Eren and M. Sert},
+    	title = {Audio Captioning Using Sound Event Detection},
+    	institution = {DCASE2021 Challenge},
+    	year = {2021},
+    	month = {Jun.}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+#### An Encoder-Decoder Based Audio Captioning System With Transfer And Reinforcement Learning For DCASE Challenge 2021 Task 6
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>X. Mei et al,
+       "An Encoder-Decoder Based Audio Captioning System With Transfer And Reinforcement Learning For DCASE Challenge 2021 Task 6,"
+	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Eren_83_t6.pdf">DCASE2021</a>
+   </dd>
+ 
+   <dt>Code</dt>
+   <dd>
+   <a href="https://github.com/XinhaoMei/DCASE2021_task6_v2.git">GitHub</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{eren:2021:dcase:tech-report,
+    	author = {X. Mei and Q. Huang and X. Liu and G. Chen and J. Wu and Y. Wu and J. Zhao and S. Li and T. Ko and H. L. Tang and X. Shao and M. D. Plumbley and W. Wang},
+    	title = {An Encoder-Decoder Based Audio Captioning System With Transfer And Reinforcement Learning For {DCASE} Challenge 2021 Task 6},
+    	institution = {DCASE2021 Challenge},
+    	year = {2021},
+    	month = {Jun.}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
 #### Audio Retrieval with Natural Language Queries
 
 <details><summary>Information</summary>
