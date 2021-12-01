@@ -81,6 +81,39 @@ please feel free to create an issue.
 
 </details>
 
+#### An Automated Audio Captioning Approach Utilising a Resnet-Based Encoder
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>A. Gebhard, A. Triantafyllopoulos, A. Baird, and B. Schuller,
+	   "An Automated Audio Captioning Approach Utilising a Resnet-Based Encoder,"
+	   DCASE2021 Challenge, Tech. Rep., Jun. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Gebhard_80_t6.pdf">DCASE2021</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{gebhard:2021:dcase:tech-report,
+    	author = {A. Gebhard and A. Triantafyllopoulos and A. Baird and B. Schuller},
+    	title = {An Automated Audio Captioning Approach Utilising a Resnet-Based Encoder},
+    	institution = {DCASE2021 Challenge},
+    	year = {2021},
+    	month = {Jun.}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
 #### Audio Retrieval with Natural Language Queries
 
 <details><summary>Information</summary>
@@ -604,7 +637,7 @@ please feel free to create an issue.
    <dd>
 
     @techreport{xu:2020:dcase:tech-report,
-    author = {X. Xu and H. Dinkel and M. Wu, and K. Yu},
+    author = {X. Xu and H. Dinkel and M. Wu and K. Yu},
     title = {The SJTU Submission for DCASE2020 Task 6: A CRNN-GRU Based Reinforcement Learning Approach to Audiocaption},
     institution = {DCASE2020 Challenge},
     year = {2020},
