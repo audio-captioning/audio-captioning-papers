@@ -51,7 +51,7 @@ please feel free to create an issue.
    <dt>Reference</dt>
    <dd>B. Weck, X. Favory, K. Drossos, and X. Serra, "Evaluating Off-the-Shelf Machine Listening and Natural
 	   Language Models for Automated Audio Captioning," in Proceedings of the Detection and Classification of
-	   Acoustic Scenes and Events (DCASE) 2021 Workshop, pp. 60–64, Nov. 2021
+	   Acoustic Scenes and Events (DCASE) 2021 Workshop, Nov. 2021
    </dd>
  
    <dt>Paper links</dt>
@@ -71,8 +71,7 @@ please feel free to create an issue.
     title = {Evaluating Off-the-Shelf Machine Listening and Natural Language Models for Automated Audio Captioning},
     booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events (DCASE) 2021 Workshop},
     month = {Nov.},
-    year = {2021},
-    pages = {60--64}}
+    year = {2021}}
     
    </dd>
  </dl>
@@ -89,8 +88,7 @@ please feel free to create an issue.
    <dd>X. Mei, X. Liu, Q. Huang, M. D. Plumbley, and W. Wang,
 	   "Audio Captioning Transformer,"
 	   in Proceedings of the Detection and Classification of
-	   Acoustic Scenes and Events (DCASE) 2021 Workshop,
-	   pp. 60–64, Nov. 2021
+	   Acoustic Scenes and Events (DCASE) 2021 Workshop, Nov. 2021
    </dd>
  
    <dt>Paper links</dt>
@@ -110,8 +108,7 @@ please feel free to create an issue.
     title = {Audio Captioning Transformer},
     booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events (DCASE) 2021 Workshop},
     month = {Nov.},
-    year = {2021},
-    pages = {60--64}}
+    year = {2021}}
     
    </dd>
  </dl>
@@ -128,8 +125,7 @@ please feel free to create an issue.
    <dd>X. Liu et al,,
 	   "CL4AC: A Contrastive Loss For Audio Captioning,"
 	   in Proceedings of the Detection and Classification of
-	   Acoustic Scenes and Events (DCASE) 2021 Workshop,
-	   pp. 60–64, Nov. 2021
+	   Acoustic Scenes and Events (DCASE) 2021 Workshop, Nov. 2021
    </dd>
  
    <dt>Paper links</dt>
@@ -138,6 +134,11 @@ please feel free to create an issue.
    </dd>
    <dd>
    <a href="https://arxiv.org/pdf/2107.09990.pdf">arXiv</a>
+   </dd>
+	 
+   <dt>Code</dt>
+   <dd>
+   <a href="https://github.com/liuxubo717/cl4ac">GitHub</a>
    </dd>
 
    <dt>BibTex entry</dt>
@@ -149,8 +150,7 @@ please feel free to create an issue.
     title = {{CL4AC}: A Contrastive Loss For Audio Captioning},
     booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events (DCASE) 2021 Workshop},
     month = {Nov.},
-    year = {2021},
-    pages = {60--64}}
+    year = {2021}}
     
    </dd>
  </dl>
