@@ -43,6 +43,45 @@ please feel free to create an issue.
 ----
 
 # Year 2021
+#### Evaluating Off-the-Shelf Machine Listening and Natural Language Models for Automated Audio Captioning.
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>Weck, B., Favory, X., Drossos, K., & Serra, X. (2021, November).
+	   Evaluating Off-the-Shelf Machine Listening and Natural Language Models for Automated Audio Captioning.
+	   Proceedings of the Detection and Classification of Acoustic Scenes and Events 2021 Workshop (DCASE2021), 60–64. Barcelona, Spain.
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/workshop2021/proceedings/DCASE2021Workshop_Weck_25.pdf">DCASE2021</a>
+   </dd>
+   <dd>
+   <a href="https://arxiv.org/abs/2110.07410">arXiv</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@inproceedings{Weck2021,
+    author = "Weck, Benno and Favory, Xavier and Drossos, Konstantinos and Serra, Xavier",
+    title = "Evaluating Off-the-Shelf Machine Listening and Natural Language Models for Automated Audio Captioning",
+    booktitle = "Proceedings of the Detection and Classification of Acoustic Scenes and Events 2021 Workshop (DCASE2021)",
+    address = "Barcelona, Spain",
+    month = "November",
+    year = "2021",
+    pages = "60--64"
+	}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
 #### Audio Retrieval with Natural Language Queries
 
 <details><summary>Information</summary>
