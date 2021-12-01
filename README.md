@@ -43,14 +43,15 @@ please feel free to create an issue.
 ----
 
 # Year 2021
-#### Evaluating Off-the-Shelf Machine Listening and Natural Language Models for Automated Audio Captioning.
+
+#### Evaluating Off-the-Shelf Machine Listening and Natural Language Models for Automated Audio Captioning
 
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
    <dd>B. Weck, X. Favory, K. Drossos, and X. Serra, "Evaluating Off-the-Shelf Machine Listening and Natural
 	   Language Models for Automated Audio Captioning," in Proceedings of the Detection and Classification of
-	   Acoustic Scenes and Events 2021 Workshop (DCASE 2021), pp. 60–64, Nov. 2021, Barcelona, Spain
+	   Acoustic Scenes and Events (DCASE) 2021 Workshop, pp. 60–64, Nov. 2021
    </dd>
  
    <dt>Paper links</dt>
@@ -65,12 +66,89 @@ please feel free to create an issue.
 
    <dd>
 
-	@inproceedings{Weck2021,
+	@inproceedings{weck:2021:dcase,
     author = {Benno Weck and Xavier Favory and Konstantinos Drossos and Xavier Serra},
     title = {Evaluating Off-the-Shelf Machine Listening and Natural Language Models for Automated Audio Captioning},
-    booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events 2021 Workshop (DCASE2021)},
-    address = {Barcelona, Spain},
-    month = {November},
+    booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events (DCASE) 2021 Workshop},
+    month = {Nov.},
+    year = {2021},
+    pages = {60--64}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+#### Audio Captioning Transformer
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>X. Mei, X. Liu, Q. Huang, M. D. Plumbley, and W. Wang,
+	   "Audio Captioning Transformer,"
+	   in Proceedings of the Detection and Classification of
+	   Acoustic Scenes and Events (DCASE) 2021 Workshop,
+	   pp. 60–64, Nov. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/workshop2021/proceedings/DCASE2021Workshop_Mei_68.pdf">DCASE2021</a>
+   </dd>
+   <dd>
+   <a href="https://arxiv.org/pdf/2107.09817.pdf">arXiv</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@inproceedings{mei:2021:dcase,
+    author = {X. Mei and X. Liu and Q. Huang and M. D. Plumbley and W. Wang},
+    title = {Audio Captioning Transformer},
+    booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events (DCASE) 2021 Workshop},
+    month = {Nov.},
+    year = {2021},
+    pages = {60--64}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+#### CL4AC: A Contrastive Loss For Audio Captioning
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>X. Liu et al,,
+	   "CL4AC: A Contrastive Loss For Audio Captioning,"
+	   in Proceedings of the Detection and Classification of
+	   Acoustic Scenes and Events (DCASE) 2021 Workshop,
+	   pp. 60–64, Nov. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/workshop2021/proceedings/DCASE2021Workshop_Liu_65.pdf">DCASE2021</a>
+   </dd>
+   <dd>
+   <a href="https://arxiv.org/pdf/2107.09990.pdf">arXiv</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@inproceedings{liu:2021:dcase,
+    author = {X. Liu and Q. Huang and X. Mei and T. Ko and H. L. Tang and M. D. Plumbley and W. Wang},
+    title = {{CL4AC}: A Contrastive Loss For Audio Captioning},
+    booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events (DCASE) 2021 Workshop},
+    month = {Nov.},
     year = {2021},
     pages = {60--64}}
     
