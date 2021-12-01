@@ -55,7 +55,7 @@ please feel free to create an issue.
  
    <dt>Paper links</dt>
    <dd>
-   <a href="http://dcase.community/documents/workshop2021/proceedings/DCASE2021Workshop_Weck_25.pdf">DCASE2021</a>
+   <a href="https://dcase.community/documents/workshop2021/proceedings/DCASE2021Workshop_Weck_25.pdf">DCASE2021</a>
    </dd>
    <dd>
    <a href="https://arxiv.org/abs/2110.07410">arXiv</a>
@@ -93,7 +93,7 @@ please feel free to create an issue.
  
    <dt>Paper links</dt>
    <dd>
-   <a href="http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Gebhard_80_t6.pdf">DCASE2021</a>
+   <a href="https://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Gebhard_80_t6.pdf">DCASE2021</a>
    </dd>
 
    <dt>BibTex entry</dt>
@@ -164,7 +164,7 @@ please feel free to create an issue.
  
    <dt>Paper links</dt>
    <dd>
-   <a href="http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Xiao_10_t6.pdf">DCASE2021</a>
+   <a href="https://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Xiao_10_t6.pdf">DCASE2021</a>
    </dd>
 
    <dt>BibTex entry</dt>
@@ -197,7 +197,7 @@ please feel free to create an issue.
  
    <dt>Paper links</dt>
    <dd>
-   <a href="http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Xu_119_t6.pdf">DCASE2021</a>
+   <a href="https://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Xu_119_t6.pdf">DCASE2021</a>
    </dd>
 
    <dt>BibTex entry</dt>
@@ -230,7 +230,7 @@ please feel free to create an issue.
  
    <dt>Paper links</dt>
    <dd>
-   <a href="http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Eren_83_t6.pdf">DCASE2021</a>
+   <a href="https://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Eren_83_t6.pdf">DCASE2021</a>
    </dd>
 
    <dt>BibTex entry</dt>
@@ -263,7 +263,7 @@ please feel free to create an issue.
  
    <dt>Paper links</dt>
    <dd>
-   <a href="http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Eren_83_t6.pdf">DCASE2021</a>
+   <a href="https://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Mei_88_t6.pdf">DCASE2021</a>
    </dd>
  
    <dt>Code</dt>
@@ -275,9 +275,146 @@ please feel free to create an issue.
 
    <dd>
 
-    @techreport{eren:2021:dcase:tech-report,
+    @techreport{mei:2021:dcase:tech-report,
     	author = {X. Mei and Q. Huang and X. Liu and G. Chen and J. Wu and Y. Wu and J. Zhao and S. Li and T. Ko and H. L. Tang and X. Shao and M. D. Plumbley and W. Wang},
     	title = {An Encoder-Decoder Based Audio Captioning System With Transfer And Reinforcement Learning For {DCASE} Challenge 2021 Task 6},
+    	institution = {DCASE2021 Challenge},
+    	year = {2021},
+    	month = {Jun.}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+#### IRIT-UPS DCASE 2021 Audio Captioning System
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>E. Labbé and T. Pellegrini,
+       "IRIT-UPS DCASE 2021 Audio Captioning System,"
+	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Labbe_102_t6.pdf">DCASE2021</a>
+   </dd>
+ 
+   <dt>Code</dt>
+   <dd>
+   <a href="https://github.com/Labbeti/dcase2021task6">GitHub</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{labbe:2021:dcase:tech-report,
+    	author = {E. Labbe\'{e} and T. Pellegrini},
+    	title = {{IRIT-UPS DCASE} 2021 Audio Captioning System},
+    	institution = {DCASE2021 Challenge},
+    	year = {2021},
+    	month = {Jun.}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+#### The DCASE 2021 Challenge Task 6 System: Automated Audio Captioning With Weakly Supervised Pre-Traing And Word Selection Methods
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>W. Yuan, Q. Han, D. Liu, X. Li, and Z. Yang,
+       "The DCASE 2021 Challenge Task 6 System: Automated Audio Captioning With Weakly Supervised Pre-Traing And Word Selection Methods,"
+	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Yuan_2_t6.pdf">DCASE2021</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{yuan:2021:dcase:tech-report,
+    	author = {W. Yuan and Q. Han and D. Liu and X. Li and Z. Yang},
+    	title = {The {DCASE} 2021 Challenge Task 6 System: Automated Audio Captioning With Weakly Supervised Pre-Traing And Word Selection Methods},
+    	institution = {DCASE2021 Challenge},
+    	year = {2021},
+    	month = {Jun.}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+#### Leveraging State-Of-The-Art ASR Techniques To Audio Captioning
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>C. Narisetty, T. Hayashi, R. Ishizaki, S. Watanabe, and K. Takeda,
+       "Leveraging State-Of-The-Art ASR Techniques To Audio Captioning,"
+	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Narisetty_94_t6.pdf">DCASE2021</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{narisetty:2021:dcase:tech-report,
+    	author = {C. Narisetty and T. Hayashi and R. Ishizaki and S. Watanabe and K. Takeda},
+    	title = {Leveraging State-Of-The-Art {ASR} Techniques To Audio Captioning},
+    	institution = {DCASE2021 Challenge},
+    	year = {2021},
+    	month = {Jun.}}
+    
+   </dd>
+ </dl>
+
+----
+
+</details>
+
+#### CAU Submission To DCASE 2021 Task6: Transformer Followed By Transfer Learning For Audio Captioning
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>H. Won, B. Kim, I. -Y. Kwak, and C. Lim,
+       "CAU Submission To DCASE 2021 Task6: Transformer Followed By Transfer Learning For Audio Captioning,"
+	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Won_103_t6.pdf">DCASE2021</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+    @techreport{won:2021:dcase:tech-report,
+    	author = {H. Won and B. Kim and I. -Y. Kwak and C. Lim},
+    	title = {{CAU} Submission To {DCASE} 2021 Task6: Transformer Followed By Transfer Learning For Audio Captioning},
     	institution = {DCASE2021 Challenge},
     	year = {2021},
     	month = {Jun.}}
