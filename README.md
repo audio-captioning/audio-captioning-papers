@@ -72,7 +72,7 @@ please feel free to create an issue.
 
    <dd>
 
-	@inproceedings{weck:2021:dcase,
+	@inproceedings{berg:2021:dcase,
     author = {J. Berg and K. Drossos},
     title = {Continual Learning For Automated Audio Captioning Using The Learning Without Forgetting Approach},
     booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events (DCASE) 2021 Workshop},
