@@ -44,6 +44,46 @@ please feel free to create an issue.
 
 # Year 2021
 
+#### Continual Learning For Automated Audio Captioning Using The Learning Without Forgetting Approach
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>J. Berg and K. Drossos, "Continual Learning For Automated Audio Captioning Using The Learning
+	   Without Forgetting Approach," in Proceedings of the Detection and Classification of
+	   Acoustic Scenes and Events (DCASE) 2021 Workshop, Nov. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/workshop2021/proceedings/DCASE2021Workshop_Berg_51.pdf">DCASE2021</a>
+   </dd>
+   <dd>
+   <a href="https://arxiv.org/abs/2107.08028">arXiv</a>
+   </dd>
+	 
+ 
+   <dt>Code</dt>
+   <dd>
+   <a href="https://github.com/JanBerg1/AAC-LwF">GitHub</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@inproceedings{weck:2021:dcase,
+    author = {J. Berg and K. Drossos},
+    title = {Continual Learning For Automated Audio Captioning Using The Learning Without Forgetting Approach},
+    booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events (DCASE) 2021 Workshop},
+    month = {Nov.},
+    year = {2021}}
+    
+   </dd>
+ </dl>
+
+----
+
 #### Evaluating Off-the-Shelf Machine Listening and Natural Language Models for Automated Audio Captioning
 
 <details><summary>Information</summary>
@@ -67,7 +107,7 @@ please feel free to create an issue.
    <dd>
 
 	@inproceedings{weck:2021:dcase,
-    author = {Benno Weck and Xavier Favory and Konstantinos Drossos and Xavier Serra},
+    author = {B. Weck and X. Favory and K. Drossos and X. Serra},
     title = {Evaluating Off-the-Shelf Machine Listening and Natural Language Models for Automated Audio Captioning},
     booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events (DCASE) 2021 Workshop},
     month = {Nov.},
