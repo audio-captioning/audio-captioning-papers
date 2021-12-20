@@ -83,6 +83,8 @@ please feel free to create an issue.
  </dl>
 
 ----
+	
+</details>
 
 #### Evaluating Off-the-Shelf Machine Listening and Natural Language Models for Automated Audio Captioning
 
