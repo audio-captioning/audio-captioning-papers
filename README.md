@@ -199,6 +199,49 @@ please feel free to create an issue.
 
 # Year 2021
 
+#### Improving the Performance of Automated Audio Captioning via Integrating the Acoustic and Semantic Information
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>Z. Ye, H. Wang, D. Yang, and Y. Zou, "Improving the Performance of Automated Audio
+       Captioning via Integrating the Acoustic and Semantic Information," in Proceedings
+       of the Detection and Classification of Acoustic Scenes and Events (DCASE) 2021
+       Workshop, Nov. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="http://dcase.community/documents/workshop2021/proceedings/DCASE2021Workshop_Berg_51.pdf">DCASE2021</a>
+   </dd>
+   <dd>
+   <a href="https://arxiv.org/abs/2107.08028">arXiv</a>
+   </dd>
+	 
+ 
+   <dt>Code</dt>
+   <dd>
+   <a href="https://github.com/JanBerg1/AAC-LwF">GitHub</a>
+   </dd>
+
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@inproceedings{berg:2021:dcase,
+    author = {J. Berg and K. Drossos},
+    title = {Continual Learning For Automated Audio Captioning Using The Learning Without Forgetting Approach},
+    booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events (DCASE) 2021 Workshop},
+    month = {Nov.},
+    year = {2021}}
+    
+   </dd>
+ </dl>
+
+----
+	
+</details>
+
 #### Continual Learning For Automated Audio Captioning Using The Learning Without Forgetting Approach
 
 <details><summary>Information</summary>
