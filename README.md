@@ -35,10 +35,55 @@ please feel free to create an issue.
 
 ## Table of contents
 
+1. [Year 2022](#year-2022)
 1. [Year 2021](#year-2021)
 1. [Year 2020](#year-2020)
 1. [Year 2019](#year-2019)
 1. [Year 2017](#year-2017)
+
+----
+
+# Year 2022
+
+
+#### Automated Audio Captioning Using Transfer Learning and Reconstruction Latent Space Similarity Regularization
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>A. Koh, X. Fuzhao, and C. E. Siong, "Automated Audio Captioning Using
+       Transfer Learning and Reconstruction Latent Space Similarity Regularization,"
+       in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+           2022, May 2022
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://ieeexplore.ieee.org/document/9747676/authors#authorshttps://arxiv.org/pdf/2108.04692.pdf">ieeexplore</a>
+   </dd>
+   <dd>
+   <a href="https://arxiv.org/pdf/2108.04692.pdf">arXiv</a>
+   </dd>
+	 
+ 
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@inproceedings{berg:2021:dcase,
+    author = {A. Koh and X. Fuzhao and C. E. Siong},
+    title = {Automated Audio Captioning Using Transfer Learning and Reconstruction Latent Space Similarity Regularization},
+    booktitle = {ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+    month = {May},
+    year = {2022}}
+    
+   </dd>
+ </dl>
+
+----
+	
+</details>
+
 
 ----
 
