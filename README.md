@@ -84,6 +84,43 @@ please feel free to create an issue.
 	
 </details>
 
+#### Joint Speech Recognition and Audio Captioning
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>C. Narisetty, E. Tsunoo, X. Chang, Y. Kashiwagi, M. Hentschel, and S. Watanabe,
+       "Joint Speech Recognition and Audio Captioning" in IEEE International Conference
+       on Acoustics, Speech and Signal Processing (ICASSP) 2022, May 2022
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://ieeexplore.ieee.org/document/9746601">ieeexplore</a>
+   </dd>
+   <dd>
+   <a href="https://arxiv.org/abs/2202.01405">arXiv</a>
+   </dd>
+	 
+ 
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@inproceedings{narisetty:2022:icassp,
+    author = {C. Narisetty and E. Tsunoo and X. Chang and Y. Kashiwagi and M. Hentschel and S. Watanabe},
+    title = {Joint Speech Recognition and Audio Captioning},
+    booktitle = {ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+    month = {May},
+    year = {2022}}
+    
+   </dd>
+ </dl>
+
+----
+	
+</details>
+
 #### Can Audio Captions Be Evaluated With Image Caption Metrics?
 
 <details><summary>Information</summary>
