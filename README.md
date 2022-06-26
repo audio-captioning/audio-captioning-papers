@@ -45,7 +45,6 @@ please feel free to create an issue.
 
 # Year 2022
 
-
 #### Unsupervised Audio-Caption Aligning Learns Correspondences Between Individual Sound Events and Textual Phrases
 
 <details><summary>Information</summary>
@@ -70,7 +69,7 @@ please feel free to create an issue.
 
    <dd>
 
-	@inproceedings{berg:2021:dcase,
+	@inproceedings{xie:2022:icassp,
     author = {H. Xie and O. R\"{a}s\"{a}nen and K. Drossos and T. Virtanen},
     title = {Unsupervised Audio-Caption Aligning Learns Correspondences Between Individual Sound Events and Textual Phrases},
     booktitle = {ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
@@ -108,7 +107,7 @@ please feel free to create an issue.
 
    <dd>
 
-	@inproceedings{berg:2021:dcase,
+	@inproceedings{koh:2022:icassp,
     author = {A. Koh and X. Fuzhao and C. E. Siong},
     title = {Automated Audio Captioning Using Transfer Learning and Reconstruction Latent Space Similarity Regularization},
     booktitle = {ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
@@ -121,7 +120,6 @@ please feel free to create an issue.
 ----
 	
 </details>
-
 
 ----
 
@@ -282,6 +280,42 @@ please feel free to create an issue.
 
 ----
 
+</details>
+
+#### Visually Exploring Multi-Purpose Audio Data
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>D. Heise and H. L. Bear, "Visually Exploring Multi-Purpose Audio Data,""
+       IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP),
+       Oct. 2021
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://ieeexplore.ieee.org/document/9733552">ieeexplore</a>
+   </dd>
+   <dd>
+   <a href="https://arxiv.org/abs/2110.04584">arXiv</a>
+   </dd>
+	 
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@inproceedings{heise:2021:mmsp,
+    author = {D. Heise and H. L. Bear},
+    title = {Visually Exploring Multi-Purpose Audio Data},
+    booktitle = {2021 IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP)},
+    month = {Oct.},
+    year = {2021}}
+    
+   </dd>
+ </dl>
+
+----
+	
 </details>
 
 #### An Automated Audio Captioning Approach Utilising a Resnet-Based Encoder
