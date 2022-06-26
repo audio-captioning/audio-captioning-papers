@@ -45,6 +45,45 @@ please feel free to create an issue.
 
 # Year 2022
 
+#### Connecting the Dots between Audio and Text without Parallel Data through Visual Knowledge Transfer
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>Y. Zhao, J. Hessel, Y. Yu, X. Lu, R. Zellers, and Y. Choi,
+       "Connecting the Dots between Audio and Text without Parallel
+       Data through Visual Knowledge Transfer," in Proceedings of
+       2022 Annual Conference of the North American Chapter of the
+       Association for Computational Linguistics (NAACL), Jul. 2022
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://openreview.net/forum?id=o1LLnx21iVj">OpenReview</a>
+   </dd>
+   <dd>
+   <a href="https://arxiv.org/abs/2112.08995">arXiv</a>
+   </dd>
+	 
+ 
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@inproceedings{zhao:2022:naacl,
+    author = {Y. Zhao and J. Hessel and Y. Yu and X. Lu and R. Zellers and Y. Choi},
+    title = {Connecting the Dots between Audio and Text without Parallel Data through Visual Knowledge Transfer},
+    booktitle = {2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)},
+    month = {Jul.},
+    year = {2022}}
+    
+   </dd>
+ </dl>
+
+----
+	
+</details>
+
 #### Can Audio Captions Be Evaluated With Image Caption Metrics?
 
 <details><summary>Information</summary>
