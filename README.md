@@ -45,6 +45,43 @@ please feel free to create an issue.
 
 # Year 2022
 
+#### Diverse Audio Captioning via Adversarial Training
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>X. Mei, X. Liu, J. Sun, M. D. Plumbley, and W. Wang, "Diverse Audio
+       Captioning via Adversarial Training," in IEEE International Conference
+       on Acoustics, Speech and Signal Processing (ICASSP) 2022, May 2022
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://ieeexplore.ieee.org/document/9746894">ieeexplore</a>
+   </dd>
+   <dd>
+   <a href="https://arxiv.org/abs/2110.06691">arXiv</a>
+   </dd>
+	 
+ 
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@inproceedings{mei:2022:icassp,
+    author = {X. Mei and X. Liu and J. Sun and M. D. Plumbley and W. Wang},
+    title = {Diverse Audio Captioning via Adversarial Training},
+    booktitle = {ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+    month = {May},
+    year = {2022}}
+    
+   </dd>
+ </dl>
+
+----
+	
+</details>
+
 #### Unsupervised Audio-Caption Aligning Learns Correspondences Between Individual Sound Events and Textual Phrases
 
 <details><summary>Information</summary>
