@@ -46,6 +46,44 @@ please feel free to create an issue.
 # Year 2022
 
 
+#### Unsupervised Audio-Caption Aligning Learns Correspondences Between Individual Sound Events and Textual Phrases
+
+<details><summary>Information</summary>
+ <dl>
+   <dt>Reference</dt>
+   <dd>H. Xie, O. Räsänen, K. Drossos, and T. Virtanen, "Unsupervised Audio-Caption
+       Aligning Learns Correspondences Between Individual Sound Events and Textual Phrases,"
+       in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+       2022, May 2022
+   </dd>
+ 
+   <dt>Paper links</dt>
+   <dd>
+   <a href="https://ieeexplore.ieee.org/document/9747336">ieeexplore</a>
+   </dd>
+   <dd>
+   <a href="https://arxiv.org/abs/2110.02939">arXiv</a>
+   </dd>
+	 
+ 
+   <dt>BibTex entry</dt>
+
+   <dd>
+
+	@inproceedings{berg:2021:dcase,
+    author = {H. Xie and O. R\"{a}s\"{a}nen and K. Drossos and T. Virtanen},
+    title = {Unsupervised Audio-Caption Aligning Learns Correspondences Between Individual Sound Events and Textual Phrases},
+    booktitle = {ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+    month = {May},
+    year = {2022}}
+    
+   </dd>
+ </dl>
+
+----
+	
+</details>
+
 #### Automated Audio Captioning Using Transfer Learning and Reconstruction Latent Space Similarity Regularization
 
 <details><summary>Information</summary>
@@ -54,15 +92,15 @@ please feel free to create an issue.
    <dd>A. Koh, X. Fuzhao, and C. E. Siong, "Automated Audio Captioning Using
        Transfer Learning and Reconstruction Latent Space Similarity Regularization,"
        in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
-           2022, May 2022
+       2022, May 2022
    </dd>
  
    <dt>Paper links</dt>
    <dd>
-   <a href="https://ieeexplore.ieee.org/document/9747676/authors#authorshttps://arxiv.org/pdf/2108.04692.pdf">ieeexplore</a>
+   <a href="https://ieeexplore.ieee.org/document/9747676">ieeexplore</a>
    </dd>
    <dd>
-   <a href="https://arxiv.org/pdf/2108.04692.pdf">arXiv</a>
+   <a href="https://arxiv.org/pdf/2108.04692">arXiv</a>
    </dd>
 	 
  
