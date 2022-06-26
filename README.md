@@ -212,25 +212,20 @@ please feel free to create an issue.
  
    <dt>Paper links</dt>
    <dd>
-   <a href="http://dcase.community/documents/workshop2021/proceedings/DCASE2021Workshop_Berg_51.pdf">DCASE2021</a>
+   <a href="http://dcase.community/documents/workshop2021/proceedings/DCASE2021Workshop_Ye_19.pdf">DCASE2021</a>
    </dd>
    <dd>
-   <a href="https://arxiv.org/abs/2107.08028">arXiv</a>
+   <a href="https://arxiv.org/abs/2110.06100">arXiv</a>
    </dd>
 	 
  
-   <dt>Code</dt>
-   <dd>
-   <a href="https://github.com/JanBerg1/AAC-LwF">GitHub</a>
-   </dd>
-
    <dt>BibTex entry</dt>
 
    <dd>
 
-	@inproceedings{berg:2021:dcase,
-    author = {J. Berg and K. Drossos},
-    title = {Continual Learning For Automated Audio Captioning Using The Learning Without Forgetting Approach},
+	@inproceedings{ye:2021:dcase,
+    author = {Z. Ye and H. Wang and D. Yang and Y. Zou},
+    title = {Improving the Performance of Automated Audio Captioning via Integrating the Acoustic and Semantic Information},
     booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events (DCASE) 2021 Workshop},
     month = {Nov.},
     year = {2021}}
