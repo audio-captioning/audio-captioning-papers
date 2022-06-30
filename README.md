@@ -127,8 +127,9 @@ please feel free to create an issue.
  <dl>
    <dt>Reference</dt>
    <dd>Z. Zhou, Z. Zhang, X. Xu, Z. Xie, M. Wu, and K. Q. Zhu,
-       "Can Audio Captions Be Evaluated With Image Caption Metrics?," in IEEE International Conference
-       on Acoustics, Speech and Signal Processing (ICASSP) 2022, May 2022
+       "Can Audio Captions Be Evaluated With Image Caption Metrics?,"
+       in IEEE International Conference on Acoustics, Speech and
+       Signal Processing (ICASSP) 2022, May 2022
    </dd>
  
    <dt>Paper links</dt>
@@ -360,8 +361,10 @@ please feel free to create an issue.
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
-   <dd>B. Weck, X. Favory, K. Drossos, and X. Serra, "Evaluating Off-the-Shelf Machine Listening and Natural
-	   Language Models for Automated Audio Captioning," in Proceedings of the Detection and Classification of
+   <dd>B. Weck, X. Favory, K. Drossos, and X. Serra,
+       "Evaluating Off-the-Shelf Machine Listening and Natural
+	   Language Models for Automated Audio Captioning," in
+       Proceedings of the Detection and Classification of
 	   Acoustic Scenes and Events (DCASE) 2021 Workshop, Nov. 2021
    </dd>
  
@@ -544,9 +547,10 @@ please feel free to create an issue.
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
-   <dd>Z. Ye, H. Wang, D. Yang, and Y. Zou,
-       "Improving The Performance Of Automated Audio Captioning Via Integrating The Acoustic And Textual Information,"
-	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+   <dd>Z. Ye, H. Wang, D. Yang, and Y. Zou, "Improving
+       The Performance Of Automated Audio Captioning Via
+       Integrating The Acoustic And Textual Information,"
+       DCASE2021 Challenge, Tech. Rep., Jun. 2021
    </dd>
  
    <dt>Paper links</dt>
@@ -584,7 +588,7 @@ please feel free to create an issue.
    <dt>Reference</dt>
    <dd>F. Xiao, J. Guan, and Q. Kong,
        "Automated Audio Captioning With MLP-Mixer And Pre-Trained Encoder,"
-	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+	   DCASE2021 Challenge, Tech. Rep., Jun. 2021
    </dd>
  
    <dt>Paper links</dt>
@@ -615,9 +619,10 @@ please feel free to create an issue.
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
-   <dd>X. Xu, Z. Xie, M. Wu, and Kai Yu,
-       "The SJTU System For DCASE2021 Challenge Task 6: Audio Captioning Based On Encoder Pre-Training And Reinforcement Learning,"
-	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+   <dd>X. Xu, Z. Xie, M. Wu, and Kai Yu, "The SJTU System
+       For DCASE2021 Challenge Task 6: Audio Captioning Based
+       On Encoder Pre-Training And Reinforcement Learning,"
+	   DCASE2021 Challenge, Tech. Rep., Jun. 2021
    </dd>
  
    <dt>Paper links</dt>
@@ -648,9 +653,8 @@ please feel free to create an issue.
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
-   <dd>A. Ö. Eren and M. Sert,
-       "Audio Captioning Using Sound Event Detection,"
-	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+   <dd>A. Ö. Eren and M. Sert, "Audio Captioning Using Sound Event Detection,"
+	   DCASE2021 Challenge, Tech. Rep., Jun. 2021
    </dd>
  
    <dt>Paper links</dt>
@@ -681,9 +685,9 @@ please feel free to create an issue.
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
-   <dd>X. Mei et al,
-       "An Encoder-Decoder Based Audio Captioning System With Transfer And Reinforcement Learning For DCASE Challenge 2021 Task 6,"
-	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+   <dd>X. Mei et al, "An Encoder-Decoder Based Audio Captioning
+       System With Transfer And Reinforcement Learning For DCASE Challenge 2021 Task 6,"
+       DCASE2021 Challenge, Tech. Rep., Jun. 2021
    </dd>
  
    <dt>Paper links</dt>
@@ -719,9 +723,9 @@ please feel free to create an issue.
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
-   <dd>E. Labbé and T. Pellegrini,
-       "IRIT-UPS DCASE 2021 Audio Captioning System,"
-	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+   <dd>E. Labbé and T. Pellegrini, "IRIT-UPS DCASE
+       2021 Audio Captioning System," DCASE2021 Challenge,
+       Tech. Rep., Jun. 2021
    </dd>
  
    <dt>Paper links</dt>
@@ -758,8 +762,9 @@ please feel free to create an issue.
  <dl>
    <dt>Reference</dt>
    <dd>W. Yuan, Q. Han, D. Liu, X. Li, and Z. Yang,
-       "The DCASE 2021 Challenge Task 6 System: Automated Audio Captioning With Weakly Supervised Pre-Traing And Word Selection Methods,"
-	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+       "The DCASE 2021 Challenge Task 6 System: Automated
+       Audio Captioning With Weakly Supervised Pre-Traing And Word Selection Methods,"
+       DCASE2021 Challenge, Tech. Rep., Jun. 2021
    </dd>
  
    <dt>Paper links</dt>
@@ -792,7 +797,7 @@ please feel free to create an issue.
    <dt>Reference</dt>
    <dd>C. Narisetty, T. Hayashi, R. Ishizaki, S. Watanabe, and K. Takeda,
        "Leveraging State-Of-The-Art ASR Techniques To Audio Captioning,"
-	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+	   DCASE2021 Challenge, Tech. Rep., Jun. 2021
    </dd>
  
    <dt>Paper links</dt>
@@ -825,7 +830,7 @@ please feel free to create an issue.
    <dt>Reference</dt>
    <dd>H. Won, B. Kim, I. -Y. Kwak, and C. Lim,
        "CAU Submission To DCASE 2021 Task6: Transformer Followed By Transfer Learning For Audio Captioning,"
-	DCASE2021 Challenge, Tech. Rep., Jun. 2021
+	   DCASE2021 Challenge, Tech. Rep., Jun. 2021
    </dd>
  
    <dt>Paper links</dt>
@@ -931,8 +936,10 @@ please feel free to create an issue.
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
-   <dd>X. Xu, H. Dinkel, M. Wu, and K. Yu,
-   "Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events," in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Jun. 2021, pp. 606-610
+   <dd>X. Xu, H. Dinkel, M. Wu, and K. Yu, "Text-to-Audio Grounding:
+       Building Correspondence Between Captions and Sound Events,"
+       in IEEE International Conference on Acoustics, Speech and
+       Signal Processing (ICASSP), Jun. 2021, pp. 606-610
    </dd>
  
    <dt>Paper links</dt>
@@ -967,7 +974,10 @@ please feel free to create an issue.
  <dl>
    <dt>Reference</dt>
    <dd>X. Xu, H. Dinkel, M. Wu, Z. Xie, and K. Yu,
-   "Investigating Local and Global Information for Automated Audio Captioning with Transfer Learning," in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Jun. 2021, pp. 905-909
+       "Investigating Local and Global Information for Automated
+       Audio Captioning with Transfer Learning," in IEEE International
+       Conference on Acoustics, Speech and Signal Processing (ICASSP),
+       Jun. 2021, pp. 905-909
    </dd>
  
    <dt>Paper links</dt>
@@ -1005,10 +1015,10 @@ please feel free to create an issue.
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
-   <dd>A. Ö. Eren and M. Sert,
-   "Audio Captioning Based on Combined Audio and Semantic Embeddings,"
-   in proceedings of 2020 IEEE International Symposium on Multimedia (ISM),
-   Dec. 2020
+   <dd>A. Ö. Eren and M. Sert, "Audio Captioning Based
+       on Combined Audio and Semantic Embeddings," in
+       proceedings of 2020 IEEE International Symposium
+       on Multimedia (ISM), Dec. 2020
    </dd>
  
    <dt>Paper links</dt>
@@ -1044,9 +1054,9 @@ please feel free to create an issue.
  <dl>
    <dt>Reference</dt>
    <dd>Y. Koizumi, Y. Ohishi, D. Niizumi, D. Takeuchi, and M. Yasuda,
-   "Audio Captioning using Pre-Trained Large-Scale Language Model Guided by Audio-based Similar Caption Retrieval,"
-   in arXiv:2012.07331 [eess.AS], 2020,
-   Nov. 2020
+       "Audio Captioning using Pre-Trained Large-Scale Language
+       Model Guided by Audio-based Similar Caption Retrieval,"
+       in arXiv:2012.07331 [eess.AS], 2020, Nov. 2020
    </dd>
  
    <dt>Paper links</dt>
@@ -1079,10 +1089,10 @@ please feel free to create an issue.
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
-   <dd>X. Xu, H. Dinkel, M. Wu, and K. Yu,
-   "A CRNN-GRU Based Reinforcement Learning Approach to Audio Captioning,"
-   in Detection and Classification of Acoustic Scenes and Events (DCASE) 2020,
-   Nov. 2020
+   <dd>X. Xu, H. Dinkel, M. Wu, and K. Yu, "A CRNN-GRU
+       Based Reinforcement Learning Approach to Audio Captioning,"
+       in Detection and Classification of Acoustic Scenes and
+       Events (DCASE) 2020, Nov. 2020
    </dd>
  
    <dt>Paper links</dt>
@@ -1121,9 +1131,9 @@ please feel free to create an issue.
  <dl>
    <dt>Reference</dt>
    <dd>K. Chen, Y. Wu, Z. Wang, X. Zhang, F. Nian, S. Li, and X. Shao,
-   "Audio Captioning Based on Transformer and Pre-Trained CNN,"
-   in Detection and Classification of Acoustic Scenes and Events (DCASE) 2020,
-   Nov. 2020
+       "Audio Captioning Based on Transformer and Pre-Trained CNN,"
+       in Detection and Classification of Acoustic Scenes and Events (DCASE) 2020,
+       Nov. 2020
    </dd>
  
    <dt>Paper links</dt>
@@ -1161,9 +1171,10 @@ please feel free to create an issue.
 <details><summary>Information</summary>
  <dl>
    <dt>Reference</dt>
-   <dd>A. Tran, K. Drossos, and T. Virtanen,
-   "WaveTransformer: A Novel Architecture for Audio Captioning Based on Learning Temporal and Time-Frequency Information,"
-   in arXiv:2010.11098 [cs.SD], 2020
+   <dd>A. Tran, K. Drossos, and T. Virtanen, "WaveTransformer:
+       A Novel Architecture for Audio Captioning Based on
+       Learning Temporal and Time-Frequency Information," in
+       arXiv:2010.11098 [cs.SD], 2020
    </dd>
  
    <dt>Paper links</dt>
@@ -1206,9 +1217,9 @@ please feel free to create an issue.
  <dl>
    <dt>Reference</dt>
    <dd>D. Takeuchi, Y. Koizumi, Y. Ohishi, N. Harada, and K. Kashino,
-   "Effects of Word-frequency based Pre- and Post- Processings for Audio Captioning,"
-   in Detection and Classification of Acoustic Scenes and Events (DCASE) 2020,
-   Nov. 2020
+       "Effects of Word-frequency based Pre- and Post- Processings for Audio Captioning,"
+       in Detection and Classification of Acoustic Scenes and Events (DCASE) 2020,
+       Nov. 2020
    </dd>
  
    <dt>Paper links</dt>
@@ -1245,8 +1256,8 @@ please feel free to create an issue.
  <dl>
    <dt>Reference</dt>
    <dd>Y. Koizumi, R. Masumura, K. Nishida, M. Yasuda, and S. Saito,
-   "A Transformer-based Audio Captioning Model with Keyword Estimation,"
-   in INTERSPEECH, 2020
+       "A Transformer-based Audio Captioning Model with Keyword Estimation,"
+       in INTERSPEECH, 2020
    </dd>
  
    <dt>Paper links</dt>
@@ -1281,9 +1292,9 @@ please feel free to create an issue.
  <dl>
    <dt>Reference</dt>
    <dd>E. Çakır, K. Drossos, and T. Virtanen, 
-   "Multi-task Regularization Based on Infrequent Classes for Audio Captioning,"
-   in Detection and Classification of Acoustic Scenes and Events (DCASE) 2020,
-   Nov. 2020
+       "Multi-task Regularization Based on Infrequent Classes for Audio Captioning,"
+       in Detection and Classification of Acoustic Scenes and Events (DCASE) 2020,
+       Nov. 2020
    </dd>
  
    <dt>Paper links</dt>
@@ -1320,9 +1331,9 @@ please feel free to create an issue.
  <dl>
    <dt>Reference</dt>
    <dd>K. Nguyen, K. Drossos, and T. Virtanen,
-   "Temporal Sub-sampling of Audio Feature Sequences for Automated Audio Captioning,"
-   in Detection and Classification of Acoustic Scenes and Events (DCASE) 2020,
-   Nov. 2020
+       "Temporal Sub-sampling of Audio Feature Sequences for Automated Audio Captioning,"
+       in Detection and Classification of Acoustic Scenes and Events (DCASE) 2020,
+       Nov. 2020
    </dd>
  
    <dt>Paper links</dt>
@@ -1359,9 +1370,9 @@ please feel free to create an issue.
  <dl>
    <dt>Reference</dt>
    <dd>X. Xu, H. Dinkel, M. Wu, and K. Yu,
-   "The SJTU Submission for DCASE2020 Task 6: A CRNN-GRU
-   Based Reinforcement Learning Approach to Audiocaption,"
-   DCASE2020 Challenge, Tech. Rep., Jun. 2020
+       "The SJTU Submission for DCASE2020 Task 6: A CRNN-GRU
+       Based Reinforcement Learning Approach to Audiocaption,"
+       DCASE2020 Challenge, Tech. Rep., Jun. 2020
    </dd>
  
    <dt>Paper links</dt>
@@ -1393,9 +1404,9 @@ please feel free to create an issue.
  <dl>
    <dt>Reference</dt>
    <dd>Y. Wu, K. Chen, Z. Wang, X. Zhang, F. Nian, S. Li, and X. Shao,
-   "Audio Captioning Based on Transformer and Pre-Training for
-   2020 DCASE Audio Captioning Challenge,"
-   DCASE2020 Challenge, Tech. Rep., Jun. 2020
+       "Audio Captioning Based on Transformer and Pre-Training for
+       2020 DCASE Audio Captioning Challenge,"
+       DCASE2020 Challenge, Tech. Rep., Jun. 2020
    </dd>
  
    <dt>Paper links</dt>
@@ -1437,8 +1448,8 @@ please feel free to create an issue.
  <dl>
    <dt>Reference</dt>
    <dd>Q. Wu, S. Tao, and X. Yang,
-   "Automatic Audio Captioning System Based on Convolutional Neural Network,"
-   DCASE2020 Challenge, Tech. Rep., Jun. 2020
+       "Automatic Audio Captioning System Based on Convolutional Neural Network,"
+       DCASE2020 Challenge, Tech. Rep., Jun. 2020
    </dd>
  
    <dt>Paper links</dt>
