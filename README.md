@@ -7,7 +7,7 @@ focusing on the automatic generation of textual descriptions
 (i.e. captions) for general audio. This repository is a list
 of papers that are focusing on audio captioning. 
 
-The papers are groupped according to the year that are published,
+The papers are grouped according to the year that are published,
 and for each paper there are: 
 
 * The full reference
