@@ -35,6 +35,7 @@ please feel free to create an issue.
 
 ## Table of contents
 
+1. [Number of papers per year](#number-of-papers-per-year)
 1. [Year 2022](#year-2022)
 1. [Year 2021](#year-2021)
 1. [Year 2020](#year-2020)
@@ -42,6 +43,16 @@ please feel free to create an issue.
 1. [Year 2017](#year-2017)
 
 ----
+
+# Number of papers per year
+
+| Year | # of papers |
+| :--- | :----: |
+| 2022 | ... |
+| 2021 | 20 |
+| 2020 | 21 |
+| 2019 | 05 |
+| 2017 | 01 |
 
 # Year 2022
 
