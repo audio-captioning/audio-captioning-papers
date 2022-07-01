@@ -46,7 +46,7 @@ please feel free to create an issue.
 
 # Number of papers per year
 
-<center>
+<div align="center">
 
 | Year | # of papers |
 | :--- | :----: |
@@ -56,7 +56,7 @@ please feel free to create an issue.
 | 2019 | 05 |
 | 2017 | 01 |
 
-</center>
+</div>
 
 # Year 2022
 
